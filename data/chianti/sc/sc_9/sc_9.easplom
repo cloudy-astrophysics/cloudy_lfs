@@ -1,0 +1,11 @@
+ 21  9  1  2  1 4.691e+00 3.196e+01 1.800e+00 2.975e-01 2.803e-01 2.767e-01 2.742e-01 2.928e-01
+ 21  9  1  3  4 1.291e+00 4.067e+01 1.500e+00 2.114e-01 1.582e-01 1.194e-01 8.545e-02 6.310e-02
+-1
+%file:  sc_9.easplom
+%excitation autoionization cross section parameter file
+ derived from fits to experimental and theoretical data
+Dere, K. P., 2007, A&A, 466, 771
+ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
+ created for CHIANTI database for astrophysical spectroscopy
+  created by Ken Dere  (GMU)  Fri Jan 26 12:40:30 2007
+-1

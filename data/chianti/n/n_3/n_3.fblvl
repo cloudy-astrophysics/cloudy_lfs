@@ -1,0 +1,23 @@
+    1               2s22p    2    1  p    6             116.267               0.000
+    2               2s23s    3    0  s    2          221302.203               0.000
+    3               2s23p    3    1  p    6          245689.333               0.000
+    4               2s23d    3    2  d   10          267241.762               0.000
+    5               2s24s    4    0  s    2          301082.594               0.000
+    6               2s24p    4    1  p    6          311706.896               0.000
+    7               2s24d    4    2  d   10          317766.775               0.000
+    8               2s24f    4    3  f   14          320287.830               0.000
+    9               2s25s    5    0  s    2          333712.000               0.000
+   10               2s25p    5    1  p    6          338159.365               0.000
+   11               2s25d    5    2  d   10          341948.362               0.000
+   12               2s25f    5    3  f   14          342749.705               0.000
+   13               2s25g    5    4  g   18          343117.094               0.000
+ -1
+%filename: n_3.fblvl
+%energy levels (n=2): Edlen, B., 1983, 28, 483
+%energy levels (n=3): Kelly,R.L., 1987, J.Phys.Chem.Ref.Data 16, Suppl.1
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 18 2002
+ -1

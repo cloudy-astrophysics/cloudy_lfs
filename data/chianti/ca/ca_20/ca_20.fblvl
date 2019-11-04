@@ -1,0 +1,23 @@
+    1                  1s    1    0  s    2               0.000               0.000
+    2                  2s    2    0  s    2        33071744.000               0.000
+    3                  2p    2    1  p    6        33109473.333               0.000
+    4                  3s    3    0  s    2        39214580.000               0.000
+    5                  3p    3    1  p    6        39225744.000               0.000
+    6                  3d    3    2  d   10        39235060.800               0.000
+    7                  4s    4    0  s    2        41362272.000               0.000
+    8                  4p    4    1  p    6        41366976.000               0.000
+    9                  4d    4    2  d   10        41370907.200               0.000
+   10                  4f    4    3  f   14        41372579.429               0.000
+   11                  5s    5    0  s    2        42355344.000               0.000
+   12                  5p    5    1  p    6        42357754.667               0.000
+   13                  5d    5    2  d   10        42359765.600               0.000
+   14                  5f    5    3  f   14        42360622.857               0.000
+   15                  5g    5    4  g   18        42361096.889               0.000
+ -1
+%filename: ca_20.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration 
+%
+% Ken Dere - Jul 17 2002
+ -1

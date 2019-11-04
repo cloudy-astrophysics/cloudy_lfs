@@ -1,0 +1,22 @@
+    1                  3d    3    2  d   10            1101.600               0.000
+    2          3s2 3p6 4s    4    0  s    2          428529.187          428529.187
+    3          3s2 3p6 4p    4    1  p    6          513792.344          516708.594
+    4          3s2 3p6 4d    4    2  d   10               0.000          655052.250
+    5          3s2 3p6 4f    4    3  f   14          763757.875          764642.500
+    6          3s2 3p6 5s    5    0  s    2               0.000          779565.687
+    7          3s2 3p6 5p    5    1  p    6               0.000          818357.812
+    8          3s2 3p6 5d    5    2  d   10               0.000          877538.062
+    9          3s2 3p6 5f    5    3  f   14          927083.562          927662.812
+   10          3s2 3p6 5g    5    4  g   18               0.000          936428.625
+   11          3s2 3p6 6s    6    0  s    2               0.000          937916.687
+   12          3s2 3p6 6p    6    1  p    6               0.000          958434.250
+   13          3s2 3p6 6d    6    2  d   10               0.000         1016911.062
+   14          3s2 3p6 6f    6    3  f   14               0.000         1022573.563
+ -1
+%filename: fe_8.fblvl
+%observed energies: Derived from CHIANTI .elvlc file.
+%theoretical energies: From the Opacity Project.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young, 26-Jul-2002
+ -1

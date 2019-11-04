@@ -1,0 +1,18 @@
+    1              2s22p3    2    1  p   20           66369.300           67568.253
+    2            2s22p23s    3    0  s   30         1457059.286         1470879.933
+    3            2s22p23p    3    1  p   90         1517670.500         1563087.756
+    4            2s22p23d    3    2  d  150         1650399.118         1663955.387
+ -1
+%filename: si_8.fblvl
+%Observed energy levels (1): Edlen, 1984, Phys.Scripta, 30, 135 
+%Observed energy levels (2-4): Fuhr, J.R., Kelleher, D.E., Martin, W.C., Musgrove, A., Sugar, J., Wiese, W.L.,
+        Dalton, G.R., Dragoset, R.A., Mohr, P.J., Olsen, K., Reader, J., Saloman, E.B., Sansonetti, C.J.,
+        Wiersma, G., "NIST Atomic Spectra Database" Ver. 2.0, March 1999, NIST Physical Reference Data
+%Observed energy levels: Kink, I., Engstroem, L., Feldman, U., 1999, ApJ, 512, 496
+%Theoretical energy levels (1): Zhang, Sampson, ADNDT, 1999, 72, 153
+%Theoretical energy levels (2-4): Bhatia & Landi, 2001, ADNDT, 2003, ADNDT, 85, 317
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 18 2002
+ -1

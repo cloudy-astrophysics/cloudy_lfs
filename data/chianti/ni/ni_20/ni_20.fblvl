@@ -1,0 +1,14 @@
+    1              2s22p5    2    1  p    6           47986.333           47915.700
+    2               2p43s    3    0  s   30         6729026.667         7651678.428
+    3               2p43p    3    1  p   90               0.000         7963473.101
+    4               2p43d    3    2  d  150         8385200.000         8338395.359
+ -1
+%filename: ni_20.fblvl
+%Observed energy levels: Martin,W.C., Sugar,J., Musgrove,A., Dalton,G.R., 1995, 
+    NIST Standard Reference Database 61, NIST Database for Atomic Spectroscopy, Version 1.0
+%Theoretical energy levels: Sampson,D.H., Zhang,H.L., Fontes,C.J., 1991, ADNDT, 48, 25
+%comment: free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% K.P.Dere - Jul 22 2002
+ -1

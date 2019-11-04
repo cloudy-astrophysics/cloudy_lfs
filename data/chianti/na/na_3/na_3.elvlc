@@ -1,0 +1,12 @@
+  1     1 2s2.2p5         2  1 P  1.5  4          0.000       0.000000          0.000       0.000000
+  2     1 2s2.2p5         2  1 P  0.5  2       1366.300       0.012451       1308.831       0.011927
+  3     2 2s.2p6          2  0 S  0.5  2     264455.000       2.409891     284593.031       2.593403
+ -1
+%filename: na_3.elvlc
+%observed energy levels:  Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+    NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%theoretical energy levels: interpolated using Ne II, Mg IV, Si VI, S VIII.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997
+-1

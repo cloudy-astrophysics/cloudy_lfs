@@ -1,0 +1,13 @@
+    1
+   21   10  3.7670e+03  1.5890e+04  5.1820e+04  2.6980e+05  5.6860e+05  4.2200e+06  0.0000e+00  0.0000e+00  0.0000e+00
+   21   10  1.4740e-04  2.2090e-03  7.6600e-03  8.0180e-02  1.9780e-02  4.5750e-02  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  sc_10.drparams
+%parameters for dielectronic recombination rate coefficients
+Altun, Z., Yumak, I., Badnell, N.R., Loch, S.D., Pindzola, M.S.
+2007, A&A, 474, 1051
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2007A%26A...474.1051A
+Dielectronic recombination data for dynamic finite-density plasmas. XIII. The magnesium isoelectronic sequence
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:13:01 2012
+-1

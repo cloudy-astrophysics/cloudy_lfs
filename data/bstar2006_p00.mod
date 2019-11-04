@@ -1,0 +1,1 @@
+/Users/gary/cloudy/stars/bstar2006_p00.mod

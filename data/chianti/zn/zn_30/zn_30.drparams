@@ -1,0 +1,12 @@
+    1
+   30   30  7.3720e+07  9.7110e+07  1.5850e+08  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+   30   30  2.3210e-01  3.1950e-01  9.6450e-03  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  zn_30.drparams
+%parameters for dielectronic recombination rate coefficients
+Badnell, N. R., 2006, A&A, 447, 389
+Dielectronic recombination data for dynamic finite-density plasmas. X. The hydrogen isoelectronic sequence
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2006A%26A...447..389B
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:08:15 2012
+-1

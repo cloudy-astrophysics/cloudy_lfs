@@ -1,0 +1,17 @@
+    1              2s22p3    2    1  p   20          171238.100          176005.900
+    2            2s22p23s    3    0  s   30         7321785.714         7339399.267
+    3            2s22p23p    3    1  p   90               0.000         7583601.133
+    4            2s22p23d    3    2  d  150         7899783.333         7854263.237
+ -1
+%filename: fe_20.fblvl
+%Observed energy levels (1): Kucera et al., 2000, ApJ, 538, 424
+%Observed energy levels (1): Edlen, B., 1984, Pysica Scripta, 30, 135
+%Observed energy levels (n=3): Shirai,T., Sugar,J., Musgrove,A., Wiese,W.L., 2000, J.Phys.Chem.Ref.Data, Monograph 8
+%Observed energy levels (16-20,23,24,67,79): Kelly,R.L., 1987, J.Phys.Chem.Ref.Data 16, Suppl. 1
+%energy levels (7,11): NIST Atomic Spectra Database Version 2.0
+%Theoretical energy levels: Butler and Zeippen, 2001, A&A, 372, 1078
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 18 2002
+ -1

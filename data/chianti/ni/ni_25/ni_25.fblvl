@@ -1,0 +1,13 @@
+    1                 2s2    2    0  s    1               0.000               0.000
+    2                2s2p    2    1  p   12          577179.167               0.000
+    3                2s3s    3    0  s    4        10482750.000               0.000
+    4                2s3p    3    1  p   12        10678500.000               0.000
+    5                2s3d    3    2  d   20        10823650.000               0.000
+ -1
+%filename: ni_25.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%comment:  free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base
+%
+% E. Landi - Jul 2002
+ -1

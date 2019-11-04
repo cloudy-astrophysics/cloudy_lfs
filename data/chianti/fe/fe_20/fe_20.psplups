@@ -1,0 +1,20 @@
+  1  2  6 0.000e+00 1.281e+00 5.000e+01-1.297e+01-1.179e+01-1.070e+01-1.016e+01-1.020e+01
+  1  3  6 0.000e+00 1.631e+00 3.150e+01-1.280e+01-1.185e+01-1.072e+01-1.000e+01-9.900e+00
+  1  5  6 0.000e+00 2.915e+00 2.530e+01-1.579e+01-1.417e+01-1.252e+01-1.189e+01-1.180e+01
+  2  3  6 0.000e+00 3.498e-01 1.855e+02-1.127e+01-1.065e+01-1.001e+01-9.680e+00-9.700e+00
+  2  4  6 0.000e+00 1.066e+00 7.850e+01-1.350e+01-1.078e+01-9.834e+00-9.455e+00-9.600e+00
+  2  5  6 0.000e+00 1.634e+00 4.950e+01-1.450e+01-1.150e+01-1.028e+01-9.810e+00-9.900e+00
+  3  4  6 0.000e+00 7.162e-01 9.450e+01-1.410e+01-1.113e+01-1.007e+01-9.653e+00-9.900e+00
+  3  5  6 0.000e+00 1.284e+00 6.200e+01-1.300e+01-1.078e+01-9.782e+00-9.399e+00-9.400e+00
+  4  5  6 0.000e+00 5.679e-01 1.335e+02-1.250e+01-1.076e+01-9.957e+00-9.572e+00-9.600e+00
+ -1
+%filename: fe_20.psplups
+%rates: Bhatia, A.K., Mason, H.E., 1980, A&A 83, 380
+%energies: Bhatia, A.K., Mason, H.E., 1980, A&A 83, 380
+%comments: The fits are good to < 3%. An acceptable fit could not be found to 
+    the 1 - 4 transition and so it was omitted. The rates for this 
+    transition are around 1e-12 and so it is not important.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young   11-Sep-2002
+ -1

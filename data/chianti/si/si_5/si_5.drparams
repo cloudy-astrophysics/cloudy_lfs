@@ -1,0 +1,13 @@
+    1
+   14    5  7.6850e+05  1.2080e+06  1.8390e+06  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+   14    5  1.4220e-04  9.4740e-03  1.6500e-03  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  si_5.drparams
+%parameters for dielectronic recombination rate coefficients
+Zatsarinny, O., Gorczyca, T.W., Korista, K., Badnell, N.R., Savin, D.W.
+2004, A&A, 426, 699
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2004A%26A...426..699Z
+Dielectronic recombination data for dynamic finite-density plasmas. VII. The neon isoelectronic sequence
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:12:57 2012
+-1

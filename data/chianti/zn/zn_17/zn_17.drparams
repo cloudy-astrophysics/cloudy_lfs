@@ -1,0 +1,10 @@
+    1
+   30   17  4.9764e+05  7.5316e+05  2.5839e+06  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+   30   17  1.0976e-01  3.9003e-01  2.1376e-01  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  zn_17.drparams
+%parameters for dielectronic recombination rate coefficients
+%reference:  Mazzitelli, G., Mattioli, M., 2002, ADNDT, 82, 313
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Fri Feb  9 08:36:17 2007
+-1

@@ -1,0 +1,8 @@
+Title Produce report of species and line wavelengths.
+# The save command produces a file, LineLablels.txt, which contains
+# the set of line labels for the standard Cloudy setup.  This file
+# gives the species identification, the line wavelength, and indications
+# of how the line was formed, or which database produced it.
+test
+save line labels "LineLabels.txt"
+save species labels "SpeciesLabels.txt" all

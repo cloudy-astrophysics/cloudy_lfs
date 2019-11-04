@@ -1,0 +1,1 @@
+/Users/gary/cloudy/stars/ostar2002_p00.mod

@@ -1,0 +1,28 @@
+  1     1 3s2             1  0 S  0.0  1          0.000       0.000000          0.000       0.000000
+  2     2 3s.3p           3  1 P  0.0  1     113101.000       1.030655     112206.272       1.022500
+  3     2 3s.3p           3  1 P  1.0  3     113906.000       1.037991     112853.850       1.028400
+  4     2 3s.3p           3  1 P  2.0  5     115587.000       1.053306     114028.039       1.039100
+  5     2 3s.3p           1  1 P  1.0  3     170720.000       1.555715     172792.368       1.574600
+  6     3 3p2             1  2 D  2.0  5     264740.000       2.412489     263545.124       2.401600
+  7     3 3p2             3  1 P  0.0  1     269835.000       2.458918     270315.916       2.463300
+  8     3 3p2             3  1 P  1.0  3     270776.000       2.467493     270579.285       2.465700
+  9     3 3p2             3  1 P  2.0  5     272560.000       2.483750     272335.082       2.481700
+ 10     4 3s.3d           3  2 D  1.0  3     324103.000       2.953444     324701.727       2.958900
+ 11     4 3s.3d           3  2 D  2.0  5     324142.000       2.953799     324712.700       2.959000
+ 12     4 3s.3d           3  2 D  3.0  7     324190.000       2.954237     324833.411       2.960100
+ 13     3 3p2             1  0 S  0.0  1     316710.000       2.886074     319752.574       2.913800
+ 14     4 3s.3d           1  2 D  2.0  5     370280.000       3.374240     374302.991       3.410900
+ 15     5 3s.4s           3  0 S  1.0  3     514089.000       4.684724     512308.632       4.668500
+ 16     5 3s.4s           1  0 S  0.0  1     528900.000       4.819692     525323.477       4.787100
+ -1
+%filename: ar_7.elvlc                              
+%energy levels: Phillips, L.W., & Parker, W.L. 1941, Phys. Rev., 60, 301
+%energy levels (6,13,14,16): Ralchenko, Y. et al., NIST Atomic Spectra Database, Version 3.0
+%theoretical energy levels: Pradhan, Ph.Rev.A, 34, 4704, 1986
+%comment: Energies of triplet levels from Phillips & Parker have been scaled relative to the
+          ground level using the wavelength of the 3s.3p 3P1-3s2 1S0 transition reported
+          in the SUMER solar disk atlas (877.92 A - Curdt et al. 2001, A&A, 375, 591).
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% E. Landi - Nov 2006
+ -1

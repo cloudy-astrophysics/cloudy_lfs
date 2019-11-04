@@ -1,0 +1,12 @@
+  2  3  2 0.000e+00 2.134e-02 6.450e+02-1.400e-13 3.019e-14 2.143e-12 1.058e-11 2.439e-11 3.745e-11 4.160e-11 2.955e-11-1.548e-12
+  2  4  2 0.000e+00 6.849e-02 3.550e+02-3.450e-11 5.668e-11 2.842e-10 4.829e-10 6.056e-10 6.434e-10 5.991e-10 4.796e-10 2.055e-10
+  3  4  2 0.000e+00 4.715e-02 5.200e+02-4.396e-11 5.940e-11 2.428e-10 3.929e-10 4.829e-10 5.084e-10 4.704e-10 3.715e-10 1.547e-10
+ -1
+%filename: si_11.psplups
+%rates: Ryans R.S.I., Foster-Woods V.J, Copeland F., Keenan F.P., Matthews A., Reid R.H.G., 1998, ADNDT 70, 179-229
+%energies: CHIANTI database, ver.1, Dere et al., A&AS 125, 149, 1997
+%comment: Fits valid for temperatures 4e5 to 8d7 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young  19-Oct-00
+ -1

@@ -1,0 +1,13 @@
+    1              3s23p3    3    1  p   20           21075.941           21073.625
+    2            3s23p23d    3    2  d   84          193321.113          194544.070
+ -1
+%filename: ar_4.fblvl
+%experimental energy levels: Fuhr, J.R., Kelleher, D.E., Martin, W.C., Musgrove, A., Sugar, J., Wiese, W.L.,
+        Dalton, G.R., Dragoset, R.A., Mohr, P.J., Olsen, K., Reader, J., Saloman, E.B., Sansonetti, C.J.,
+        Wiersma, G., "NIST Atomic Spectra Database" Ver. 2.0, March 1999, NIST Physical Reference Data
+% Theoretical energy levels: Ramsbottom et al 1997, MNRAS, 284, 754
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere  Jul 22 2002
+ -1

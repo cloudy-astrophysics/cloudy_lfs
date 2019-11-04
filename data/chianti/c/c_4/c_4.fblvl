@@ -1,0 +1,31 @@
+    1               1s22s    2    0  s    2               0.000               0.000
+    2               1s22p    2    1  p    6           64555.800           65034.000
+    3               1s23s    3    0  s    2          302849.000          302024.000
+    4               1s23p    3    1  p    6          320071.167          319365.000
+    5               1s23d    3    2  d   10          324886.100          323873.000
+    6               1s24s    4    0  s    2          401348.100          400346.000
+    7               1s24p    4    1  p    6          408319.833          407367.000
+    8               1s24d    4    2  d   10          410338.500          409265.000
+    9               1s24f    4    3  f   14          410434.200          409321.000
+   10               1s25s    5    0  s    2          445368.500               0.000
+   11               1s25p    5    1  p    6          448860.542               0.000
+   12               1s25d    5    2  d   10          449889.219               0.000
+   13               1s25f    5    3  f   14          449939.812               0.000
+   14               1s25g    5    4  g   18          449948.406               0.000
+   15               1s26s    6    0  s    2          468784.000               0.000
+   16               1s26p    6    1  p    6          470777.604               0.000
+   17               1s26d    6    2  d   10          471371.025               0.000
+   18               1s26f    6    3  f   14          471403.188               0.000
+   19               1s26g    6    4  g   18          471406.156               0.000
+   20               1s26h    6    5  h   22          471406.812               0.000
+ -1
+%filename: c_4.fblvl
+%energy levels: Fuhr, J.R., Kelleher, D.E., Martin, W.C., Musgrove, A., Sugar, J., Wiese, W.L.,
+        Dalton, G.R., Dragoset, R.A., Mohr, P.J., Olsen, K., Reader, J., Saloman, E.B., Sansonetti, C.J.,
+        Wiersma, G., "NIST Atomic Spectra Database" Ver. 2.0, March 1999, NIST Physical Reference Data
+% Theoretical energy levels: Badnell, N.R., Pindzola, M.S., 2000, J.Phys.B, 33, 1013
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 17 2002
+ -1

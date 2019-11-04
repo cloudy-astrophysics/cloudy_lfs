@@ -1,0 +1,12 @@
+    1
+   12   12  1.2010e+07  1.5880e+07  2.4730e+07  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+   12   12  2.2620e-02  1.2160e-01  2.5310e-03  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  mg_12.drparams
+%parameters for dielectronic recombination rate coefficients
+Badnell, N. R., 2006, A&A, 447, 389
+Dielectronic recombination data for dynamic finite-density plasmas. X. The hydrogen isoelectronic sequence
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2006A%26A...447..389B
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:08:14 2012
+-1

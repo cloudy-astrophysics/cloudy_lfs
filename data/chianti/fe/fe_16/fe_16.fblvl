@@ -1,0 +1,19 @@
+    1                  3s    3    0  s    2               0.000               0.000
+    2          2s2 2p6 3p    3    1  p    6          291160.000               0.000
+    3          2s2 2p6 3d    3    2  d   10          677244.000               0.000
+    4          2s2 2p6 4s    4    0  s    2         1867740.000               0.000
+    5          2s2 2p6 4p    4    1  p    6         1982983.375               0.000
+    6          2s2 2p6 4d    4    2  d   10         2125464.000               0.000
+    7          2s2 2p6 4f    4    3  f   14         2185217.250               0.000
+    8          2s2 2p6 5s    5    0  s    2         2662000.000               0.000
+    9          2s2 2p6 5p    5    1  p    6         2719830.000               0.000
+   10          2s2 2p6 5d    5    2  d   10         2788386.000               0.000
+   11          2s2 2p6 5f    5    3  f   14         2818771.500               0.000
+   12          2s2 2p6 5g    5    4  g   18         2822100.000               0.000
+ -1
+%filename: fe_16.fblvl
+%observed energies: From CHIANTI .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young, 26-Jul-2002
+ -1

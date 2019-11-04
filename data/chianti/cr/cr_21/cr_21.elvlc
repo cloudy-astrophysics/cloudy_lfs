@@ -1,0 +1,19 @@
+  1     1 2s2             1  0 S  0.0  1          0.000       0.000000          0.000       0.000000
+  2     2 2s.2p           3  1 P  0.0  1     318080.000       2.898558     319161.094       2.908410
+  3     2 2s.2p           3  1 P  1.0  3     341170.000       3.108970     342367.250       3.119880
+  4     2 2s.2p           3  1 P  2.0  5     405070.000       3.691270     405941.344       3.699210
+  5     2 2s.2p           1  1 P  1.0  3     667110.000       6.079154     681442.375       6.209760
+  6     3 2p2             3  1 P  0.0  1     864780.000       7.880456     868841.875       7.917470
+  7     3 2p2             3  1 P  1.0  3     911130.000       8.302828     914413.625       8.332750
+  8     3 2p2             3  1 P  2.0  5     947130.000       8.630884     951758.312       8.673060
+  9     3 2p2             1  2 D  2.0  5    1051810.000       9.584798    1061694.125       9.674870
+ 10     3 2p2             1  0 S  0.0  1    1254790.000      11.434488    1270352.000      11.576300
+ -1
+%filename: cr_21.elvlc
+%Experimental energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+    NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%Theoretical energy levels: Zhang, Sampson, ADNDT, 1992, 52, 143
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997
+ -1

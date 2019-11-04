@@ -1,0 +1,12 @@
+    1
+    6    6  3.1160e+06  4.0750e+06  5.7490e+06  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+    6    6  1.4260e-03  3.0460e-02  8.3730e-04  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  c_6.drparams
+%parameters for dielectronic recombination rate coefficients
+Badnell, N. R., 2006, A&A, 447, 389
+Dielectronic recombination data for dynamic finite-density plasmas. X. The hydrogen isoelectronic sequence
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2006A%26A...447..389B
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:08:14 2012
+-1

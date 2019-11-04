@@ -1,0 +1,84 @@
+Index: ion_photo.cpp
+===================================================================
+--- ion_photo.cpp	(revision 13046)
++++ ion_photo.cpp	(working copy)
+@@ -501,11 +501,11 @@
+ 				  fyield[i]);
+ 			}
+ 
+-			/* same sum for hot iron */
++			/* same sum for hot iron, do not include one and two electron Fe */
+ 			fe.fekhot = 0.;
+ 			limit = MAX2(18,dense.IonLow[ipIRON]);
+ 
+-			limit2 = MIN2(ipIRON+1,dense.IonHigh[ipIRON]);
++			limit2 = MIN2(ipIRON-1,dense.IonHigh[ipIRON]);
+ 			ASSERT( limit2 <= LIMELM + 1 );
+ 
+ 			for( i=limit; i < limit2; i++ )
+Index: prt_lines.cpp
+===================================================================
+--- prt_lines.cpp	(revision 13046)
++++ prt_lines.cpp	(working copy)
+@@ -1328,36 +1328,46 @@
+ 		fprintf( ioQQQ, "   cool_iron_Ka called\n" );
+ 	}
+ 
+-	double fela = 0.;
+-	/* recombination Ka */
++	double FeKaHLike = 0. , FeKaHeLike=0.;
++	/* one and two electron Ka */
+ 	if( dense.lgElmtOn[ipIRON] )
+ 	{
+-		/* these lines added to outlin in metdif - following must be false
+-		 * fela = xLyaHeavy(nelem,nelem)*dense.xIonDense(nelem,nelem+1) */
+-		fela = iso_sp[ipH_LIKE][ipIRON].trans(ipH2p,ipH1s).Emis().xObsIntensity();
++		/* H-like one-electron Ka */
++		FeKaHLike = iso_sp[ipH_LIKE][ipIRON].trans(ipH2p,ipH1s).Emis().xIntensity();
++
++		/* He-like two-electron Ka */
++		FeKaHeLike =
++				iso_sp[ipHE_LIKE][ipIRON].trans(ipHe2p1P,ipHe1s1S).Emis().xIntensity()+
++				iso_sp[ipHE_LIKE][ipIRON].trans(ipHe2p3P0,ipHe1s1S).Emis().xIntensity()+
++				iso_sp[ipHE_LIKE][ipIRON].trans(ipHe2p3P1,ipHe1s1S).Emis().xIntensity()+
++				iso_sp[ipHE_LIKE][ipIRON].trans(ipHe2p3P2,ipHe1s1S).Emis().xIntensity();
++
++		//fprintf(ioQQQ,"DEBUGGG H like Ka %.2e He like %.2e\n",FeKaHLike,FeKaHeLike);
+ 	}
+ 
+ 	/* >>chng 02 jan 14, add grain fe to this sum */
+ 	/* total intensity of K-alpha line */
+-	/*linadd((fe.fekcld+fe.fegrain)*1.03e-8+(fe.fekhot+fela)*1.11e-8,2,"FeKa",'i' );*/
+ 	if( dense.lgElmtOn[ipIRON] )
+ 	{
+-		lindst((fe.fekcld+fe.fegrain)*1.03e-8+(fe.fekhot+fela)*1.11e-8,1.78f,"FeKa",
++		lindst((fe.fekcld+fe.fegrain)*1.03e-8+fe.fekhot*1.11e-8+FeKaHLike+FeKaHeLike,1.78f,"FeKa",
+ 			iso_sp[ipH_LIKE][ipIRON].trans(ipH2p,ipH1s).ipCont(),'i',false,
+-			   "total intensity of K-alpha line" );
++			   "total intensity of Fe K-alpha line" );
+ 	}
+ 
+-	linadd(fela*1.11e-8,2,"FeLr",'i' ,
+-		"recombination from fully stripped ion");
++	linadd(FeKaHLike,1.78177,"FeK1",'i' ,
++		"H-like one-electron Ka");
+ 
++	linadd(FeKaHeLike,1.85,"FeK2",'i' ,
++		"He-like one-electron Ka");
++
+ 	/* >>chng 03 aug 14, label changed from TotH to AugH to be like rest total hot iron Ka; */
+-	linadd((fe.fekhot+fela)*1.11e-8,2,"AugH",'i' ,
+-		"Auger hot iron, assumes case b for H and He-like");
++	linadd((fe.fekhot+FeKaHLike)*1.11e-8,2,"FeKH",'i' ,
++		"fluorescent hot iron, Fe 18 - 23 times ionized");
+ 
+-	linadd(fe.fekcld*1.03e-8,2,"AugC",'i',
+-		"Auger production of cold iron, less than or 17 times ionized" );
++	linadd(fe.fekcld*1.03e-8,2,"FeKC",'i',
++		"fluorescent cold iron, less than or 17 times ionized" );
+ 
+-	linadd(fe.fegrain*1.03e-8,2,"AugG",'i' ,
++	linadd(fe.fegrain*1.03e-8,2,"FeKG",'i' ,
+ 		"grain production of cold iron");
+ 
+ 	if( trace.lgTrace )

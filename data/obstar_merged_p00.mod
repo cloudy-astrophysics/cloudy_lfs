@@ -1,0 +1,1 @@
+/Users/gary/cloudy/stars/obstar_merged_p00.mod

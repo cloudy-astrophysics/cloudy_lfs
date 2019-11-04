@@ -1,0 +1,12 @@
+    1
+   10    9  7.8450e+06  9.8030e+06  1.2090e+07  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+   10    9  1.5520e-02  9.0080e-02  1.1820e-02  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  ne_9.drparams
+%parameters for dielectronic recombination rate coefficients
+Bautista, M.A., Badnell, N.R., 2007, A&A, 466, 755
+Dielectronic recombination data for dynamic finite-density plasmas. XII. The helium isoelectronic sequence
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2007A%26A...466..755B
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:09:28 2012
+-1

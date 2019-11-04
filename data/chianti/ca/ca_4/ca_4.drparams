@@ -1,0 +1,9 @@
+    2
+   20    4  1.1200e-01  1.7400e-02  4.0800e+05  4.2700e+05
+-1
+%file:  ca_4.drparams
+%parameters for dielectronic recombination rate coefficients
+%reference:  Shull,J. M., VanSteenberg, M., 1982, ApJSS, 48, 95
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Sep 24 12:55:01 2008
+-1

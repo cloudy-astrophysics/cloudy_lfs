@@ -1,0 +1,9 @@
+    2
+   28   10  1.5000e-01  1.9000e+00  1.0000e+06  5.5000e+05
+-1
+%file:  ni_10.drparams
+%parameters for dielectronic recombination rate coefficients
+%reference:  Shull,J. M., VanSteenberg, M., 1982, ApJSS, 48, 95
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Sep 24 15:01:35 2008
+-1

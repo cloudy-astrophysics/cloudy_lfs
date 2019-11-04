@@ -1,0 +1,12 @@
+ 10  2  1  3  1 6.742e-01 2.173e+00 1.400e+00 8.333e-01 9.715e-01 1.162e+00 1.340e+00 1.241e+00
+ 10  2  2  3  1 3.360e-01 2.166e+00 1.500e+00 4.144e-01 5.000e-01 6.057e-01 6.786e-01 6.204e-01
+ 10  2  1  2  2 0.000e+00 7.100e-03 1.330e+01 2.718e-01 2.762e-01 2.908e-01 3.265e-01 4.459e-01
+ -1
+%file:  ne_2.splups
+%oscillator strengths: Blackford, H.M.S., Hibbert, A., 1994, ADNDT, 58, 101
+%effective collision strengths: Saraph, H.E., Tully, J.A., 1994, A&AS, 107, 29
+%comment effective collision strengths were provided in the temperature range 3.0 < Log T < 5.0
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% K.P. Dere - 1995
+ -1

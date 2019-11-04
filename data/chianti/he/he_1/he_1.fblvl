@@ -1,0 +1,29 @@
+    1                 1s2    1    0  s    1               0.000               0.000
+    2                1s2s    2    0  s    4          161461.444               0.000
+    3                1s2p    2    1  p   12          169599.010               0.000
+    4                1s3s    3    0  s    4          183643.902               0.000
+    5                1s3p    3    1  p   12          185725.896               0.000
+    6                1s3d    3    2  d   20          186102.512               0.000
+    7                1s4s    4    0  s    4          190458.745               0.000
+    8                1s4p    4    1  p   12          191286.074               0.000
+    9                1s4d    4    2  d   20          191445.081               0.000
+   10                1s4f    4    3  f   28          191451.988               0.000
+   11                1s5s    5    0  s    4          193426.225               0.000
+   12                1s5p    5    1  p   12          193836.256               0.000
+   13                1s5d    5    2  d   20          193917.541               0.000
+   14                1s5f    5    3  f   28          193921.227               0.000
+   15                1s5g    5    4  g   36          193921.722               0.000
+   16                1s6s    6    0  s    4          194980.910               0.000
+   17                1s6p    6    1  p   12          195213.391               0.000
+   18                1s6d    6    2  d   20          195260.350               0.000
+   19                1s6f    6    3  f   28          195262.531               0.000
+   20                1s6g    6    4  g   36          195262.828               0.000
+   21                1s6h    6    5  h   44          195262.898               0.000
+ -1
+%filename: he_1.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%comment:  free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL CHIANTI atomic data base
+%
+% E. Landi - Jul 2002
+ -1

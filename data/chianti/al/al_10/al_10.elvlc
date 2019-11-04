@@ -1,0 +1,19 @@
+  1     1 2s2             1  0 S  0.0  1          0.000       0.000000          0.000       0.000000
+  2     2 2s.2p           3  1 P  0.0  1     155148.000       1.413817     156208.875       1.423480
+  3     2 2s.2p           3  1 P  1.0  3     156798.000       1.428853     157871.391       1.438630
+  4     2 2s.2p           3  1 P  2.0  5     160429.000       1.461941     161524.547       1.471920
+  5     2 2s.2p           1  1 P  1.0  3     300490.000       2.738274     314297.531       2.864090
+  6     3 2p2             3  1 P  0.0  1     404574.000       3.686760     407449.156       3.712950
+  7     3 2p2             3  1 P  1.0  3     406517.000       3.704466     409368.438       3.730440
+  8     3 2p2             3  1 P  2.0  5     409690.000       3.733381     412555.219       3.759480
+  9     3 2p2             1  2 D  2.0  5     449732.000       4.098271     460884.656       4.199890
+ 10     3 2p2             1  0 S  0.0  1     553783.000       5.046456     569392.938       5.188690
+ -1
+%filename: al_10.elvlc
+%energy levels:  Martin, W. C., Sugar, J., Musgrove, A., and Dalton, G. R., 1995, 
+  NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%Theoretical energy levels: Zhang, Sampson, ADNDT, 1992 , 52, 143
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% E. Landi and K.P.Dere 1995
+ -1

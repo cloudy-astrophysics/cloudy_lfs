@@ -1,0 +1,14 @@
+    1              2s22p5    2    1  p    6           34193.000           34139.644
+    2               2p43s    3    0  s   30         6335566.667         6329953.226
+    3               2p43p    3    1  p   90               0.000         6605386.563
+    4               2p43d    3    2  d  150         6986825.000         6940422.331
+ -1
+%filename: fe_18.fblvl
+%energy levels: Shirai,T., Sugar,J., Musgrove,A., Wiese,W.L., 2000, J.Phys.Chem.Ref.Data, Monograph 8
+%Energy levels n=9,27,91: Kelly,R.L., 1987, J.Phys.Chem.Ref.Data 16, Suppl. 1
+%theoretical energy levels: Sampson,D.H., Zhang,H.L., Fontes,C.J., 1991, ADNDT, 48, 25
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 22 2002
+ -1

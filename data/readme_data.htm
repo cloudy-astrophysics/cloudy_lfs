@@ -1,0 +1,223 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Read me for Cloudy data files</title>
+</head>
+
+<body background="clouds.jpg">
+
+<h1>Read me for Cloudy data files</h1>
+<p><font size="1">last reviewed 
+<!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%d-%b-%Y" startspan -->
+<!-- #BeginDate format:Am1 -->October 9, 2008<!-- #EndDate -->
+<!--webbot bot="Timestamp" endspan i-checksum="15298" --> </font></p>
+<hr>
+<h2><a name="Overview">Overview</a></h2>
+<p>This documents the data files included in the Cloudy data distribution.&nbsp;
+Those instructions for setting up the code are on the
+<a href="http://www.nublado.org">web site</a>.</p>
+<p>Three types of files are present in this directory.&nbsp; </p>
+<p><strong><em>*.ini</em></strong> These are files that are used to set up Cloudy. You can change these files to alter the code's default behavior. These can, for instance, change the continuum resolution or add 
+new entries into the main emission-line output.</p>
+<p><strong><em>*.da</em></strong>t These are the foundation atomic/molecular data files that are needed for the code to operate.&nbsp; Do not change these files.</p>
+<p><strong><em>*.in</em></strong> These are input scripts that are used to compile various 
+  helper files such as stellar atmospheres or types of grains.&nbsp;</p>
+<hr>
+<h2><a name="Compiling ancillary files with the *.in input files">Compiling
+ancillary files with the *.in input files</a></h2>
+<p>The download includes all the files you will need to get Cloudy running.&nbsp; 
+The download does not include the stellar continua file that are needed for the 
+table stars command to work. The web site describes how to set up these continua 
+and this only needs to be done if you want to use the table stars command.&nbsp; 
+Several input files (names like compile*.in) are examples of compiling some of 
+the stellar continua.</p>
+<h3>(Possibly) compiling the size-distributed grains</h3>
+<p>It is easy to create new grain tipes. Compiled opacities are already included in the data
+files (the *.opc files), so nothing need be done if you are happy with the
+default setup.&nbsp; They would need to be recompiled if you change the
+energy grid of the code, or wish to use a different grain refractive index or size
+distribution.&nbsp; Distributed grains are new in C96 and were added in collaboration
+with Peter van Hoof and Peter G. Martin.&nbsp; These use optical properties for
+each grain material (the *.rfi files) and size distribution files (the *.szd
+files) to create grain opacities (the *.opc files) that are a function of grain
+material and size.&nbsp; The code can then do a more realistic simulation of the grain
+emission and physics&nbsp;</p>
+<p><font size="3"><kbd><strong>compilegrains.in</strong></kbd></font> - This will
+compile all the standard grains.</p>
+<p><font size="3"><kbd><strong>compile1grain.in</strong></kbd></font> - example
+of compiling a single grain type for the <font size="3"><kbd><strong>pgrain</strong></kbd></font>s
+command to use.</p>
+<p><font size="3"><kbd><strong>vanhoof_grain_model.pdf</strong></kbd></font> -
+is a document written by Peter van Hoof which describes the file formats esed to 
+specify grain
+properties.&nbsp; You need to study this if you want to create your own grains.</p>
+<h3>The <a name="grain properties">grain properties</a> files, * szd, *.rfi, *.opc</h3>
+<p>These files specify the size distribution (*.szd) and refractive indices (*.rfi)
+for the new treatment of grain physics that is used with the <font size="3"><kbd><strong> pgrains</strong></kbd></font>
+command.&nbsp; The *.opc files give the actual opacities used by the code.</p>
+<hr>
+<h2>User-defined files that change the code's behavior</h2>
+<h3><a name="The *.ini files">The *.ini files</a></h3>
+<p>These are a series of files that add commands to the input stream when you 
+run a model.&nbsp; They
+are added by including an <font size="3"><kbd><strong>init</strong></kbd></font>
+command that names one of the following files.&nbsp;&nbsp;</p>
+<p><font size="3"><kbd><strong>c84.ini</strong></kbd></font> - makes code behave
+more like version 84<br>
+fast.ini - this includes several commands that make the code run faster, at the 
+expense of a less accurate simulation<br>
+<font size="3"><kbd><strong>honly.ini</strong></kbd></font> - hydrogen only init
+file<br>
+<font size="3"><kbd><strong>hheonly.ini</strong></kbd></font> - init file for H,
+He only<br>
+<font size="3"><kbd><strong>ism.ini</strong></kbd></font> turns off level 2
+lines and only includes prominent elements for depleted mixture.&nbsp; <i><b>NB</b></i> 
+This does not
+add grains to the mix even though many elements are strongly depleted.&nbsp;  This is not consistent, and so grains should be added separately.<br>
+pdr_leiden.ini and pdr_leiden_hack.ini are used to compute the PDR models given 
+in Roellig et al., </p>
+<h3>FeII bands in the output</h3>
+<p>The data file <i>FeII_bands.ini</i> is used to specify a series of FeII bands that are 
+entered into the main emission line output.&nbsp; These bands&nbsp; are 
+described further in the dat file and in the part of Hazy where FeII is 
+discussed. </p>
+<h3>Continuum bands in the output</h3>
+<p>The data file <i>continuum_bands.ini</i> is used to define a series of wavelength bands.&nbsp; 
+Each band has a lower and upper wavelength  and the code will integrate 
+all emission over these bands. The total luminosity or intensity is entered into the main emission line 
+output.</p>
+<h3><a name="Lists of emission lines for cdGetLineList">Emission line lists 
+for cdGetLineList</a></h3>
+<p>These are the default lists of emission lines that can be read into arrays of 
+emission lines by calling cdGetLineList.&nbsp; This is useful when the code is 
+being called as a subroutine of other larger codes, as a way to obtain a list of 
+emission lines whose intensities are to be extracted from the calculation.&nbsp; 
+This process is described in the section of a later part of Hazy on calling 
+Cloudy as a subroutine.&nbsp; These files are meant to be changed by the user.&nbsp; </p>
+<p>The files have names LineList*.dat and the end of the filename indicates the 
+purpose.&nbsp; At present the lists are the following:</p>
+<p>LineList_BLR.dat - lines seen in the spectra of BLR of AGN<br>
+LineList_NLR.dat - lines seen in the spectra of NLR of AGN<br>
+LineList_HII.dat - lines for HII Regions<br>
+LineList_strong.dat - a minimarl list of emission lines<br>
+LineList_PDR.dat - a list of PDR lines<br>
+LineList_PDR_H2.dat - a PDR line list with many H<sub>2</sub> lines from the large molecule<br>
+LineList_HeH.dat - a set of H and He emission lines<br>
+LineList_He_like.dat - lines for the He-like iso sequence</p>
+<p>Some line wavelengths may change over time as the accuracy of energy levels 
+improve.&nbsp; The &quot;table lines name.dat&quot; command is used to check that that the 
+lines in the file name.dat are still correct.&nbsp; Any line list file that is 
+included here in the data director should also be included in an one of the test 
+cases in the test suite.</p>
+<h3><a name="The resolution of the continuum mesh">The resolution of the 
+continuum mesh</a></h3>
+<p>The file <em>continuum_mesh.ini</em> contains data the defines the continuum mesh used 
+during a calculation.&nbsp; It is possible to make the continuum have any 
+resolution at all by changing this file.&nbsp; The continuum resolution largely 
+sets the execution time so be careful.&nbsp; The file contains documentation of 
+its use.</p>
+<hr>
+<h2><a name="Hummer and Storey Case B data files">Hummer and Storey Case B data
+files</a></h2>
+<p>The files HS_e1b.dat through HS_e8b.dat, and HS_e1a.dat through HS_e8a.dat&nbsp; are from Storey P.J., Hummer D.G. 
+1995, MNRAS 272, 41  <br>
+<a href="http://adc.gsfc.nasa.gov/adc-cgi/cat.pl?/catalogs/6/6064/">http://adc.gsfc.nasa.gov/adc-cgi/cat.pl?/catalogs/6/6064/</a></p>
+<hr>
+<h2>Mewe files</h2>
+<p>The files mewe_fluor.dat and mewe_nelectron.dat are tables 2 and 3 of the atomic data from Kaastra, J.S., &amp; Mewe, R., 1993, A&amp;AS, 97, 443</p>
+<p>The file mewe_gbar.dat&nbsp; is the Mewe data files for g-bar collision 
+strengths.</p>
+<hr>
+<h2><a name="FeII">FeII</a></h2>
+<h3>Data files</h3>
+<p>Three files contain the data needed to set up the large FeII model ion,
+described in Verner et al. (1999, ApJS 120, 101.&nbsp; The data formats are
+described following the name of the file and the reference for the data it
+contains.</p>
+<h3>fe2rad.dat:&nbsp;</h3>
+<p>This file contains Einstein transition probabilities.&nbsp; The original
+data sources are given in the header of this file.</p>
+<p>lower level number<br>
+upper level number<br>
+lower level statistical weight<br>
+upper level statistical weight<br>
+Einstein A coefficient, s**(-1)<br>
+Energy, cm**(-1)<br>
+type of transition (1 - allowed, 2 - semiforbidden, 3 - forbidden)</p>
+<h3>fe2col.dat :&nbsp;</h3>
+<p>This file contains collision data.&nbsp; These data are from Zhang &amp;
+Pradhan (1995; A&amp;A 293, 953), Bautista (private communication), and the
+g-bar approximation (Mewe 1972; A&amp;AS 20, 215).</p>
+<p>lower level number in Zhang and Pradhan notation, from 1 to 141<br>
+upper level number in Zhang and Pradhan notation, from 2 to 142<br>
+collision strengths at 20 temperatures,<br>
+1e3,3e3,5e3,7e3,1e4,12e3,15e3,17e3,2e4,25e3,3e4,35e3,4e4,45e3,5e4,6e4,7e4,8e<br>
+4,9e4,1e5</p>
+<h3>fe2nn.dat</h3>
+<p>nn(142) - actual level numbers for each of Zhang and Pradhan levels</p>
+<h3>
+	fe2energies.dat</h3>
+<p>This gives the energy levels in increasing order.</p>
+<hr>
+<h2>Molecular hydrogen files</h2>
+<p>collision rates for various projectiles striking H2<br>
+H2_coll_H.dat<br>
+H2_coll_H2ortho.dat<br>
+H2_coll_H2para.dat<br>
+H2_coll_He.dat<br>
+H2_coll_He_Stancil.dat<br>
+H2_coll_Hp.dat</p>
+<p><br>
+dissociation probabilities for various electronic configurations of H<sub>2</sub><br>
+H2_dissprob_B.dat<br>
+H2_dissprob_B_primed.dat<br>
+H2_dissprob_C_minus.dat<br>
+H2_dissprob_C_plus.dat<br>
+H2_dissprob_D_minus.dat<br>
+H2_dissprob_D_plus.dat</p>
+<p><br>
+energies for various electronic configurations of H<sub>2</sub><br>
+H2_energy_B.dat<br>
+H2_energy_B_primed.dat<br>
+H2_energy_C_minus.dat<br>
+H2_energy_C_plus.dat<br>
+H2_energy_D_minus.dat<br>
+H2_energy_D_plus.dat<br>
+H2_energy_X.dat</p>
+<p><br>
+distribution functions for populating levels of H<sub>2</sub> following 
+formation from H<sup>-</sup><br>
+H2_hminus_deposit.dat</p>
+<p>transition probabilities between various configurations of H<sub>2</sub><br>
+H2_transprob_B.dat<br>
+H2_transprob_B_primed.dat<br>
+H2_transprob_C_minus.dat<br>
+H2_transprob_C_plus.dat<br>
+H2_transprob_D_minus.dat<br>
+H2_transprob_D_plus.dat<br>
+H2_transprob_X.dat</p><hr>
+<h2>UTA data file</h2>
+<p>There are three, all with names UTA*.dat.&nbsp; These are the following</p>
+<p>UTA_Behar.dat - from Behar et al. 2001, ApJ, 563, 497.&nbsp; These had been 
+the default for Fe<sup>0</sup> through Fe<sup>+12</sup>.<br>
+UTA_Gu06.dat - from Gu et al. ApJ, 641, 1227.&nbsp; These are now the default 
+for Fe<sup>0</sup> through Fe<sup>+12</sup>.<br>
+UTA_Kisielius.dat - from Kisielius et al. MNRAS 344, 696, used for Fe<sup>+13</sup> 
+- Fe<sup>+15</sup>.</p>
+<hr>
+<h2><a name="Other data files">Level 1 and Level 2 data files</a></h2>
+<p>level1.dat, the main set of level 1 lines, this file is designed to be edited by humans.<br>
+level2.dat, the level 2 lines, do not edit this file!</p>
+<hr>
+<p>Visit <a href="http://www.nublado.org">www.nublado.org</a>
+for more details and the latest updates.</p>
+
+<p>Good luck!<br>
+Gary J. Ferland</p>
+
+</body>
+
+</html>

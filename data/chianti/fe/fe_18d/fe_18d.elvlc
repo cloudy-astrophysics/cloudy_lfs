@@ -1,0 +1,12 @@
+  1     1   2s2.2p5       2  1 P  1.5  4          0.000       0.000000          0.000       0.000000
+  2     1   2s2.2p5       2  1 P  0.5  2     102597.584       0.934938     102597.584       0.934938
+  3     2   2s.2p6        2  0 S  0.5  2    1064772.563       9.702922    1064772.563       9.702922
+  4     3   1s.2s2.2p6    2  0 S  0.5  2   51902117.198     472.966917   51902117.198     472.966917
+ -1
+%filename: fe_18d.elvlc
+%observed energy levels: Palmeri P., Mendoza C., Kallman T.R., Bautista M.A., 2003, A&A, 403, 1175
+%theoretical energy levels: Palmeri P., Mendoza C., Kallman T.R., Bautista M.A., 2003, A&A, 403, 1175
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  E. Landi - Feb 2005
+ -1

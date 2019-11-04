@@ -1,0 +1,17 @@
+   24   10    9    3    1
+    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
+  244.3730    0.0000    1.9863    3.6010    5.2408    6.9373    8.3551    8.9115    7.8736    4.5053
+    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
+  279.3500    0.0000    1.1544    2.0181    2.8510    3.6974    4.3980    4.6326    3.9922    2.0664
+    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
+  813.0000    0.0000    0.6619    1.2725    1.9657    2.7247    3.4080    3.7274    3.3352    1.8839
+    1.0000
+-1
+%file:  cr_10.diparams
+%direct ionization parameter file
+ derived from fits to experimental and theoretical data
+Dere, K. P., 2007, A&A, 466, 771
+ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
+ created for CHIANTI database for astrophysical spectroscopy
+  created by Ken Dere  (GMU)  Fri Jan 26 12:40:31 2007
+-1

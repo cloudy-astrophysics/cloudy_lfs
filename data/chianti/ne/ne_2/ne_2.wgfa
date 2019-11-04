@@ -1,0 +1,15 @@
+    1    2     128149.500      0.000e+00      8.590e-03            2s2.2p5 2P1.5 -             2s2.2p5 2P0.5
+    1    3        460.729      3.400e-01      5.340e+09            2s2.2p5 2P1.5 -              2s.2p6 2S0.5
+    2    3        462.392      1.670e-01      2.600e+09            2s2.2p5 2P0.5 -              2s.2p6 2S0.5
+ -1
+%filename: ne_2.wgfa
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995, 
+   NIST Standard Reference Database 61, NIST Database for Atomic Spectroscopy, Version 1.0
+%transition probabilities (1-2): Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995, 
+   NIST Standard Reference Database 61, NIST Database for Atomic Spectroscopy, Version 1.0
+%transition probabilities: Blackford, H.M.S., Hibbert, A., 1994, ADNDT, 58, 101.
+%comment:  A(1-3) of Blackford and Hibbert seems to be incorrect
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  K.P.Dere 1995
+ -1

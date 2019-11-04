@@ -1,0 +1,13 @@
+    1              3s23p2    3    1  p   15            5922.398               0.000
+    2             3s23p3d    3    2  d   60          136565.216               0.000
+    3             3s23p4s    4    0  s   12          147320.207               0.000
+    4             3s23p4p    4    1  p   36          172322.951               0.000
+    5             3s23p4d    4    2  d   60          207104.198               0.000
+ -1
+%filename: s_3.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%comment:  free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base
+%
+% E. Landi - Jul 2002
+ -1

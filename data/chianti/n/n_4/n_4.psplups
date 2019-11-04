@@ -1,0 +1,12 @@
+  2  3  2 0.000e+00 5.750e-04 4.650e+03-3.181e-11 1.159e-10 7.069e-10 1.371e-09 1.876e-09 2.112e-09 1.951e-09 1.301e-09 4.080e-12
+  2  4  2 0.000e+00 1.887e-03 7.850e+02-5.962e-10 8.250e-10 2.951e-09 4.639e-09 5.831e-09 6.716e-09 7.413e-09 7.827e-09 6.805e-09
+  3  4  2 0.000e+00 1.312e-03 1.300e+03-5.476e-10 9.287e-10 2.729e-09 4.106e-09 5.164e-09 5.989e-09 6.530e-09 6.598e-09 4.577e-09
+ -1
+%filename: n_4.psplups
+%rates: Ryans R.S.I., Foster-Woods V.J, Copeland F., Keenan F.P., Matthews A., Reid R.H.G., 1998, ADNDT 70, 179-229
+%energies: Wiese W.L., Fuhr J.R., Deters T.M., 1996, J. Phys. Chem. Ref. Data, Monograph #7
+%comment: Fits valid for temperatures 4e4 to 3e6 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young  23-Mar-01
+ -1

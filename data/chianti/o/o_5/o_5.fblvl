@@ -1,0 +1,22 @@
+    1                 2s2    2    0  s    1               0.000               0.000
+    2                2s2p    2    1  p   12          101374.825               0.000
+    3                2s3s    3    0  s    4          550548.625               0.000
+    4                2s3p    3    1  p   12          582367.658               0.000
+    5                2s3d    3    2  d   20          603728.680               0.000
+    6                2s4s    4    0  s    4          724777.625               0.000
+    7                2s4p    4    1  p   12          736422.125               0.000
+    8                2s4d    4    2  d   20          743252.670               0.000
+    9                2s4f    4    3  f   28          748120.525               0.000
+   10                2s5s    5    0  s    4          796071.000               0.000
+   11                2s5p    5    1  p   12          802767.417               0.000
+   12                2s5d    5    2  d   20          806925.125               0.000
+   13                2s5f    5    3  f   28          808690.171               0.000
+   14                2s5g    5    4  g   36          808386.956               0.000
+ -1
+%filename: o_5.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%comment:  free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base
+%
+% E. Landi - Jul 2002
+ -1

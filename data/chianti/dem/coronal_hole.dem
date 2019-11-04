@@ -1,0 +1,33 @@
+     4.000    26.872
+     4.100    25.499
+     4.200    24.332
+     4.300    23.396
+     4.400    22.704
+     4.500    22.200
+     4.600    21.800
+     4.700    21.458
+     4.800    21.154
+     4.900    20.883
+     5.000    20.641
+     5.100    20.426
+     5.200    20.246
+     5.300    20.111
+     5.400    20.034
+     5.500    20.032
+     5.600    20.104
+     5.700    20.176
+     5.800    20.154
+     5.900    19.937
+     6.000    19.414
+     6.100    18.493
+     6.200    17.206
+     6.300    15.603
+ -1
+%filename: coronal_hole.dem
+%dem: produced by chianti_dem.pro 
+% Comment: the DEM was derived using the Vernazza & Reeves 1978 ApJSS, 37, 485 average coronal hole,
+           the sun_coronal.abund file and a constant pressure of 3.00e+15 cm-3 K.
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%   K.P.Dere  - Aug 2002
+ -1

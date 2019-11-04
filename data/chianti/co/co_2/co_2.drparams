@@ -1,0 +1,11 @@
+    1
+   27    2  5.7790e+04  2.6586e+05  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+   27    2  2.8552e-04  2.8389e-04  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  co_2.rrparams
+%parameters for dielectronic recombination rate coefficients
+%reference:  Mazzotta, P., Mazzitelli, G., Colafrancesco, S.,
+    Vittorio, N., 1998, A\&ASS, 133, 403
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Thu Feb  8 15:10:20 2007
+-1

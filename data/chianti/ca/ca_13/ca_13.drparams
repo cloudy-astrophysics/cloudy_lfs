@@ -1,0 +1,13 @@
+    1
+   20   13  3.4520e+03  1.2260e+04  9.1660e+04  6.0840e+05  2.2030e+06  4.8650e+06  2.7510e+08  0.0000e+00  0.0000e+00
+   20   13  3.1720e-04  7.2290e-04  5.6500e-04  2.0960e-02  9.4790e-02  5.5280e-01  1.3080e-03  0.0000e+00  0.0000e+00
+-1
+%file:  ca_13.drparams
+%parameters for dielectronic recombination rate coefficients
+Zatsarinny, O., Gorczyca, T.W., Korista, K.T., Fu, J., Badnell, N.R., Mitthumsiri, W., Savin, D.W.
+2005, A&A, 438, 743
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2005A%26A...438..743Z
+Dielectronic recombination data for dynamic finite-density plasmas. II. The oxygen isoelectronic sequence
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:12:36 2012
+-1

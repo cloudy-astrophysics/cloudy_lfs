@@ -1,0 +1,16 @@
+    1              2s22p4    2    1  p   15           23323.000           24191.933
+    2            2s22p33s    3    0  s   40         1225049.100         1219223.450
+    3            2s22p33p    3    1  p  120         1316121.287         1311185.576
+    4            2s22p33d    3    2  d  200         1424981.548         1419354.526
+ -1
+%filename: si_7.fblvl
+%observed energy levels: Fuhr, J.R., et al., "NIST Atomic Spectra Database" ver. 2.0
+    March 1999. NIST Physical Reference Data
+%additional observed energy levels: Kink, I., Jupen, C., Engstroem, L., Feldman, U., 
+    Laming, J.M., Schuehle, U., 1997, ApJ, 487, 956
+%additional observed energy levels: Kink, I., Engstroem, L., 1997, Physica Scripta, 56, 31
+%comment:  free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% E. Landi - Jul 2002
+ -1

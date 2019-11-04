@@ -1,0 +1,13 @@
+    1              2s22p2    2    1  p   15           36415.000               0.000
+    2             2s22p3s    3    0  s   12         2332060.000               0.000
+    3             2s22p3p    3    1  p   36               0.000         2473763.556
+    4             2s22p3d    3    2  d   60         2561250.789               0.000
+ -1
+%filename: s_11.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%Theoretical level energy: Bhatia, A.K. et al., 1987, J. Quant. Spect. Rad. Transfer, 37, 527
+%comment:  free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base
+%
+% E. Landi - Jul 2002
+ -1

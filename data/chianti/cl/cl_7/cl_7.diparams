@@ -1,0 +1,15 @@
+   17    7    9    2    1
+    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
+  114.2010    0.0000    0.5102    0.8842    1.2471    1.6131    1.9074    1.9937    1.6968    0.8333
+    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
+  321.0270    0.0000    4.5741    9.5338   14.9815   21.1000   26.7536   29.9354   28.1794   19.9006
+    1.0000
+-1
+%file:  cl_7.diparams
+%direct ionization parameter file
+ derived from fits to experimental and theoretical data
+Dere, K. P., 2007, A&A, 466, 771
+ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
+ created for CHIANTI database for astrophysical spectroscopy
+  created by Ken Dere  (GMU)  Fri Jan 26 12:40:29 2007
+-1

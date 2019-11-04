@@ -1,0 +1,12 @@
+  2  3  2 0.000e+00 1.172e-03 1.785e+02-5.160e-14-7.533e-11 5.090e-11 7.156e-10 2.729e-09 6.303e-09 1.103e-08 1.599e-08 2.184e-08
+  2  4  2 0.000e+00 3.557e-03 4.750e+01-1.800e-13-1.187e-10 1.220e-10 1.289e-09 4.758e-09 1.117e-08 2.032e-08 3.180e-08 4.255e-08
+  3  4  2 0.000e+00 2.385e-03 6.850e+01-2.490e-13-1.364e-10 2.164e-10 1.652e-09 5.201e-09 1.135e-08 1.982e-08 3.020e-08 3.885e-08
+ -1
+%filename: si_3.psplups
+%rates: Landman, D.A., Brown, T., 1979, ApJ 232, 636
+%energies: Observed energies from CHIANTI .elvlc file.
+%comment: Fits valid for temperatures 1.26e4 to 1.59e5 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young   18-May-2001
+ -1

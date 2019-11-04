@@ -1,0 +1,12 @@
+  1     1 2s2.2p5         2  1 P  1.5  4          0.000       0.000000          0.000       0.000000
+  2     1 2s2.2p5         2  1 P  0.5  2       3442.000       0.031366       3471.601       0.031636
+  3     2 2s.2p6          2  0 S  0.5  2     358816.000       3.269772     378864.906       3.452471
+ -1
+%filename: al_5.elvlc
+%%energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+% theoretical energy levels: extrapolated using Ne II, Mg IV, Si VI, S VIII, Ca XII.
+% Produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997
+ -1

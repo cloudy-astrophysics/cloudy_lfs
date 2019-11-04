@@ -1,0 +1,17 @@
+    1    2      89913.906      0.000e+00      3.054e-02            3s2.3p4 3P2.0 -             3s2.3p4 3P1.0
+    1    3      63684.977      0.000e+00      2.784e-06            3s2.3p4 3P2.0 -             3s2.3p4 3P0.0
+    2    3     218314.891      0.000e+00      5.354e-03            3s2.3p4 3P1.0 -             3s2.3p4 3P0.0
+    1    4       7137.757      0.000e+00      3.244e-01            3s2.3p4 3P2.0 -             3s2.3p4 1D2.0
+    2    4       7753.243      0.000e+00      8.443e-02            3s2.3p4 3P1.0 -             3s2.3p4 1D2.0
+    3    4       8038.730      0.000e+00      2.038e-05            3s2.3p4 3P0.0 -             3s2.3p4 1D2.0
+    1    5       3006.097      0.000e+00      3.493e-02            3s2.3p4 3P2.0 -             3s2.3p4 1S0.0
+    2    5       3110.077      0.000e+00      3.972e+00            3s2.3p4 3P1.0 -             3s2.3p4 1S0.0
+    4    5       5193.262      0.000e+00      2.693e+00            3s2.3p4 1D2.0 -             3s2.3p4 1S0.0
+ -1
+%filename: ar_3.wgfa
+%Observed energies: Ver. 3.0.3 of the online NIST database. http://physics.nist.gov/PhysRefData/ASD/index.html
+%A-values: Biemont, E., & Hansen, J.E., 1986, Physica Scripta, 34, 116
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%    Peter Young   -   5-Jun-2006
+ -1

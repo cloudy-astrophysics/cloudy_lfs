@@ -1,0 +1,12 @@
+  1  2  2 0.000e+00 1.002e+00 9.350e+01-3.404e-15 1.925e-15 1.614e-13 9.578e-13 2.288e-12 3.395e-12 3.567e-12 2.321e-12-1.448e-13
+  1  3  2 0.000e+00 1.485e+00 4.550e+01-3.164e-13 1.655e-14 2.270e-12 1.660e-11 4.957e-11 9.388e-11 1.351e-10 1.462e-10 9.215e-11
+  2  3  2 0.000e+00 4.829e-01 1.150e+02-2.380e-13 6.417e-14 3.442e-12 1.551e-11 3.524e-11 5.805e-11 7.436e-11 7.436e-11 3.948e-11
+ -1
+%filename: ni_23.psplups
+%rates: Ryans R.S.I., Foster-Woods V.J, Keenan F.P., Reid R.H.G., 1999, ADNDT 73, 1-42
+%energies: Cheng K.T., Kim Y.K., Desclaux J.P., 1979, ADNDT 24, 111
+%comment: Fits valid for temperatures 2e6 to 1.5e8 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young   15-May-2001
+ -1

@@ -1,0 +1,11 @@
+ 26 11  1 21  5 0.000e+00 5.007e+02 2.000e+00 2.412e-05 2.412e-05 2.412e-05 2.412e-05 2.412e-05 2.412e-05 2.412e-05 2.412e-05 2.412e-05 2.412e-05 2.412e-05
+ 26 11  1 22  5 0.000e+00 5.008e+02 2.000e+00 1.420e-05 1.420e-05 1.420e-05 1.420e-05 1.420e-05 1.420e-05 1.420e-05 1.420e-05 1.420e-05 1.420e-05 1.420e-05
+ 26 11  1 23  5 0.000e+00 5.009e+02 2.000e+00 4.761e-06 4.761e-06 4.761e-06 4.761e-06 4.761e-06 4.761e-06 4.761e-06 4.761e-06 4.761e-06 4.761e-06 4.761e-06
+ 26 11  1 24  5 0.000e+00 5.010e+02 2.000e+00 1.346e-05 1.346e-05 1.346e-05 1.346e-05 1.346e-05 1.346e-05 1.346e-05 1.346e-05 1.346e-05 1.346e-05 1.346e-05
+ -1
+%filename: fe_11d.splups
+%Effective collision strengths and autoionization rates: Mendoza, C., Kallman, T.R., Bautista, M.A., Palmeri, P., 2004, A&A, 414, 377
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  E. Landi - Sep 2005
+ -1

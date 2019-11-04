@@ -1,0 +1,12 @@
+    1
+   27   17  1.1050e+04  8.0030e+04  3.6130e+05  1.1930e+06  6.2350e+06  9.8610e+06  0.0000e+00  0.0000e+00  0.0000e+00
+   27   17  1.2430e-03  8.2260e-03  1.2230e-01  4.4280e-02  3.7940e-01  5.0320e-01  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  co_17.drparams
+%parameters for dielectronic recombination rate coefficients
+Altun, Z., Yumak, A., Badnell, N.R., Loch, S.D., Pindzola, M.S., 2006, A&A, 447, 1165
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2006A%26A...447.1165A
+Dielectronic recombination data for dynamic finite-density plasmas. XI. The sodium isoelectronic sequence
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:12:59 2012
+-1

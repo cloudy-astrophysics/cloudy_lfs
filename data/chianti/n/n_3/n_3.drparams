@@ -1,0 +1,13 @@
+    1
+    7    3  7.1130e+01  2.7650e+02  1.4390e+04  1.3470e+05  2.4960e+05  2.2040e+06  0.0000e+00  0.0000e+00  0.0000e+00
+    7    3  7.7120e-08  4.8390e-08  2.2180e-06  1.5360e-03  3.6470e-03  4.2340e-05  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  n_3.drparams
+%parameters for dielectronic recombination rate coefficients
+Altun, Z., Yumak, A., Badnell, N.R., Colgan, J., Pindzola, M.S., 2004, A&A, 420, 775
+Dielectronic recombination data for dynamic finite-density plasmas. VI. The boron isoelectronic sequence 
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2004A%26A...420..775A
+Erratum:  http://cdsads.u-strasbg.fr/abs/2005A%26A...433..395A
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:09:37 2012
+-1

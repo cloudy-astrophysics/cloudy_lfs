@@ -1,0 +1,17 @@
+  1     1 3s2.3p5         2  1 P  1.5  4          0.000       0.000000          0.000       0.000000
+  2     1 3s2.3p5         2  1 P  0.5  2      15683.100       0.142915      14508.000       0.132207
+  3     2 2p5.3s2.3p6     2  1 P  1.5  4    5553336.186      50.605725    5553336.186      50.605725
+  4     2 2p5.3s2.3p6     2  1 P  0.5  2    5652546.114      51.509793    5652546.114      51.509793
+  5     3 1s.3s2.3p6      2  0 S  0.5  2   57182827.730     521.088295   57182827.730     521.088295
+ -1
+%filename: fe_10d.elvlc
+%observed energy levels (below ionization): NIST Database for Atomic Spectroscopy, 
+     Version 1.0, NIST Standard Reference Database 61, 1995
+%observed energy levels (above ionization): Mendoza, C., Kallman, T.R., Bautista, M.A., Palmeri, P., 2004, A&A, 414, 377
+%theoretical energy levels (below ionization): Bhatia & Doschek, 1995, ADNDT, 60, 97, 1995
+%Theoretical energy levels (above ionization): Mendoza, C., Kallman, T.R., Bautista, M.A., Palmeri, P., 2004, A&A, 414, 377
+%comment: the theoretical energies from Mendoza et al have been used as experimental ones
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% E. Landi - Feb 2005
+ -1

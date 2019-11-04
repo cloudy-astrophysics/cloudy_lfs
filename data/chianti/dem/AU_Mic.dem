@@ -1,0 +1,24 @@
+     4.000     9.500
+     4.500     6.850
+     5.000     5.300
+     5.250     4.850
+     5.400     5.250
+     5.700     5.400
+     6.200     5.700
+     6.500     5.400
+     6.750     5.700
+     6.850     5.800
+     7.100     5.400
+     7.400     5.000
+     8.000     2.500
+ -1
+%filename: AU_Mic.dem
+%dem: Del Zanna G.,  Landini, M. and Mason, H.E., 2002, A\&A 385, 968
+% Comment: derived using the Grevesse N. & Sauval A.J., 1998 abundances 
+           with the Oxigen abundance reduced by 0.1dex
+% Comment: calculated at constant pressure: 1.00e+16 [cm-3 K]
+% Comment: This is a scaled DEM. 
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%   G. Del Zanna - May 2002
+ -1

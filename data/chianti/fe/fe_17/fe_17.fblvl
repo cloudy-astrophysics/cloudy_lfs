@@ -1,0 +1,22 @@
+    1                 2p6    2    1  p    1               0.000               0.000
+    2               2p53s    3    0  s   12         5888885.000               0.000
+    3               2p53p    3    1  p   36         6172858.056               0.000
+    4               2p53d    3    2  d   60         6535270.000               0.000
+    5               2p54s    4    0  s   12         7934400.000         7910379.417
+    6               2p54p    4    1  p   36               0.000         8024034.306
+    7               2p54d    4    2  d   60         8143616.667         8158515.067
+    8               2p54f    4    3  f   84         8219526.316         8219693.869
+    9               2p55s    5    0  s   12         8808500.000               0.000
+ -1
+%filename: fe_17.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%additional energy levels: Bhatia, A.K., Doschek, G.A., 1992, ADNDT, 52, 1
+%additional energy levels: Kelly, R. L., 1987, J. Phys. Chem. Ref. Data 16, Suppl. 1
+%additional energy levels: Shirai,T., Sugar,J., Musgrove,A., Wiese,W.L., 2000, J.Phys.Chem.Ref.Data, Monograph 8
+%theoretical energy levels (n=4): Zhang, H.L., Sampson, D.H., 1989, ADNDT, 43, 1
+%comment: energies for the following levels are approximate:
+%comment:  free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% E. Landi - Jul 2002
+ -1

@@ -1,0 +1,18 @@
+Table SED "NGC5548.sed"
+init "honly.ini"
+element iron on
+constant temperature 7
+stop zone 1
+set save prefix "test1"
+hden 10.5
+phi(H) 23.5
+#sphere
+#covering factor 0.5
+stop optical depth linear 8 at 4 Ryd
+set save line width 5000
+iterate 3
+set nfnu diffuse outward, diffuse inward, incident transmitted, incident reflected
+database H-like hydrogen levels collapsed 100
+print line sort wavelength
+print line sort column 
+

@@ -1,0 +1,12 @@
+    1
+   12    6  8.0610e+03  2.1540e+04  6.6400e+04  3.4060e+05  1.3270e+06  3.3470e+06  0.0000e+00  0.0000e+00  0.0000e+00
+   12    6  2.4070e-05  1.1870e-04  3.8450e-04  1.3330e-02  2.8040e-02  8.7460e-04  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  mg_6.drparams
+%parameters for dielectronic recombination rate coefficients
+Mitnik, D.M., Badnell, N.R., 2004, A&A, 425, 1153
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2004A%26A...425.1153M
+Dielectronic recombination data for dynamic finite-density plasmas. VIII. The nitrogen isoelectronic sequence
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:12:33 2012
+-1

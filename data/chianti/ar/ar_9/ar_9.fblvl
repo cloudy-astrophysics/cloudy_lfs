@@ -1,0 +1,17 @@
+    1                 2p6    2    1  p    1               0.000               0.000
+    2               2p53s    3    0  s   12         2035979.250               0.000
+    3               2p53p    3    1  p   36         2178715.629               0.000
+    4               2p53d    3    2  d   60         2371660.345               0.000
+    5               2p54s    4    0  s   12         2707190.000               0.000
+    6               2p54p    4    1  p   36         2763701.607               0.000
+    7               2p54d    4    2  d   60         2833561.000               0.000
+    8               2p54f    4    3  f   84         2855748.000               0.000
+    9               2p55s    5    0  s   12         2979260.000               0.000
+ -1
+%filename: ar_9.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%comment:  free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base
+%
+% E. Landi - Jul 2002
+ -1

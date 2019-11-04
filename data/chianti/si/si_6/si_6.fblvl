@@ -1,0 +1,14 @@
+    1              2s22p5    2    1  p    6            1696.667            1707.000
+    2            2s22p43s    3    0  s   30         1018394.467               0.000
+    3            2s22p43p    3    1  p   90         1073636.756               0.000
+    4            2s22p43d    3    2  d  150         1148968.480               0.000
+ -1
+%filename: si_6.fblvl
+%observed energy levels: Martin, W.C. and Zalubas, R., 1983, J.Phys.Chem.Ref.Data, 12, 323
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%theoretical energy levels: Bhatia, unpublished calculations
+%comment: free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% K.P. Dere - Jul 22 2002
+ -1

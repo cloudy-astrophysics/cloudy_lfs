@@ -1,0 +1,10 @@
+    1
+   29   16  4.6511e+05  7.1693e+05  2.4221e+06  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+   29   16  1.0151e-01  3.5752e-01  1.8876e-01  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  cu_16.drparams
+%parameters for dielectronic recombination rate coefficients
+%reference:  Mazzitelli, G., Mattioli, M., 2002, ADNDT, 82, 313
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Fri Feb  9 08:36:17 2007
+-1

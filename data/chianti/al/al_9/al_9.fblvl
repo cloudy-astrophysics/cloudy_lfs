@@ -1,0 +1,15 @@
+    1               2s22p    2    1  p    6            3260.000            3260.000
+    2               2s23s    3    0  s    2         1501020.000         1489245.000
+    3               2s23p    3    1  p    6               0.000         1563299.417
+    4               2s23d    3    2  d   10         1642284.000         1632046.225
+ -1
+%filename: al_9.fblvl
+%energy levels (n=2): Edlen, B, 1983, Phys. Scripta, 28, 483
+%energy levels (n=3): Martin,W.C., Sugar,J., Musgrove,A., Dalton,G.R., 1995, NIST Database Version 1.0
+%theoretical energy levels: Sampson and Zhang, 1995, unpublished calculations
+%comment: observed energy of level 55 estimated by comparison with Sampson's values
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% K.P.Dere - Jul 18 2002
+ -1

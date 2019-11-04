@@ -1,0 +1,22 @@
+    1               3s23p    3    1  p    6             191.467             225.546
+    2               3s23d    3    2  d   10           79348.400           82835.149
+    3               3s24s    4    0  s    2           65500.500           68964.994
+    4               3s24p    4    1  p    6           81231.300           84943.964
+    5               3s24d    4    2  d   10          101023.830               0.000
+    6               3s24f    4    3  f   14          103556.085               0.000
+    7               3s25s    5    0  s    2           97972.094               0.000
+    8               3s25p    5    1  p    6          103877.081               0.000
+    9               3s25d    5    2  d   10          112394.656               0.000
+   10               3s25f    5    3  f   14          113760.222               0.000
+   11               3s25g    5    4  g   18          114177.102               0.000
+ -1
+%filename: si_2.fblvl
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%theoretical energy levels: P.R.Young (DAMTP, Un. of Cambridge, UK), SUPERSTRUCTURE calculations, 1996
+%comment: free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 22 2002
+ -1

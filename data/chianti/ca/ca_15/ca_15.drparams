@@ -1,0 +1,13 @@
+    1
+   20   15  3.8060e+03  2.3100e+04  1.1940e+05  6.1710e+05  2.6560e+06  5.6000e+06  8.5560e+07  0.0000e+00  0.0000e+00
+   20   15  2.4560e-04  1.3050e-03  5.7150e-03  3.8630e-02  1.1000e-01  6.1520e-01  1.4630e-03  0.0000e+00  0.0000e+00
+-1
+%file:  ca_15.drparams
+%parameters for dielectronic recombination rate coefficients
+Zatsarinny, O., Gorczyca, T.W., Korista, K., Fu, J., Badnell, N.R., Mitthumsiri, W., Savin, D.W.
+2005, A&A, 440, 1203
+Dielectronic recombination data for dynamic finite-density plasmas. IV. The carbon isoelectronic sequence
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2005A%26A...440.1203Z
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:10:13 2012
+-1

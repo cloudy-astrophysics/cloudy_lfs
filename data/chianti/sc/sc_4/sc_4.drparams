@@ -1,0 +1,12 @@
+    1
+   21    4  1.1680e+05  2.1880e+05  4.7710e+05  6.8140e+05  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+   21    4  9.8170e-05  6.2410e-04  2.4590e-02  6.9900e-03  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  sc_4.drparams
+%parameters for dielectronic recombination rate coefficients
+Nikolic, D., Gorczyca, T. W., Korista, K. T., Badnell, N. R., 2010, A&A, 516, 97
+Dielectronic recombination of argon-like ions
+http://adsabs.harvard.edu/abs/2010A%26A...516A..97N
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:13:20 2012
+-1

@@ -1,0 +1,16 @@
+    1              2s22p3    2    1  p   20           94139.100           95358.879
+    2            2s22p23s    3    0  s   30         2886762.500         2938798.933
+    3            2s22p23p    3    1  p   90               0.000         3078198.267
+    4            2s22p23d    3    2  d  150         3222814.286         3230730.573
+ -1
+%filename: ar_12.fblvl
+%Observed energy levels (1): Edlen, 1984, Phys.Scripta, 30, 135 
+%Observed energy levels (n=3): NIST Database for Atomic Spectroscopy, 
+  Version 2.0, 1999, NIST Standard Reference Database # 78
+%Theoretical energy levels (1): Zhang, Sampson, ADNDT, 1999, 72, 153
+%Theoretical energy levels (2-4): Bhatia, A.K., Seely, J.F., Feldman, U., 1989, ADNDT,43, 99
+%comment: free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 18 2002
+ -1

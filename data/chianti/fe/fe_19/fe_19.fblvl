@@ -1,0 +1,14 @@
+    1              2s22p4    2    1  p   15          100864.867          103064.800
+    2            2s22p33s    3    0  s   40         6815400.000         6834684.925
+    3            2s22p33p    3    1  p  120               0.000         7095477.433
+    4            2s22p33d    3    2  d  200         7435392.308         7399052.110
+ -1
+%filename: fe_19.fblvl
+%observed energy levels: Shirai,T., Sugar,J., Musgrove,A., Wiese,W.L.,2000, J.Phys.Chem.Ref.Data, Monograph 8
+%additional observed energy levels: Kelly, R.L., 1987, J.Phys.Chem.Ref.Data, 16, Suppl. 1
+%theoretical energy levels: Butler, K., Zeippen, C.J., 2001, A&A, 372, 1083
+%comment:  free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL "CHIANTI" atomic data base collaboration
+%
+% E. Landi - Jul 2002
+ -1

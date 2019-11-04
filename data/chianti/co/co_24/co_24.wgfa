@@ -1,0 +1,29 @@
+    1    3        250.803      1.825e-03      6.447e+07                2s2 1S0.0 -               2s.2p 3P1.0
+    1    4        196.383      0.000e+00      1.032e+01                2s2 1S0.0 -               2s.2p 3P2.0
+    1    5        125.150      1.530e-01      2.171e+10                2s2 1S0.0 -               2s.2p 1P1.0
+    2    3       2809.783      0.000e+00      1.630e+03              2s.2p 3P0.0 -               2s.2p 3P1.0
+    2    4        684.558      0.000e+00      4.644e+00              2s.2p 3P0.0 -               2s.2p 3P2.0
+    2    7        137.730      6.340e-02      7.428e+09              2s.2p 3P0.0 -                 2p2 3P1.0
+    3    4        905.061      0.000e+00      4.531e+04              2s.2p 3P1.0 -               2s.2p 3P2.0
+    3    6        165.750      5.382e-02      1.306e+10              2s.2p 3P1.0 -                 2p2 3P0.0
+    3    7        144.829      4.364e-02      4.623e+09              2s.2p 3P1.0 -                 2p2 3P1.0
+    3    8        135.241      8.448e-02      6.159e+09              2s.2p 3P1.0 -                 2p2 3P2.0
+    3    9        112.324      5.404e-03      5.711e+08              2s.2p 3P1.0 -                 2p2 1D2.0
+    4    7        172.420      6.230e-02      4.657e+09              2s.2p 3P2.0 -                 2p2 3P1.0
+    4    8        159.001      1.448e-01      7.636e+09              2s.2p 3P2.0 -                 2p2 3P2.0
+    4    9        128.240      7.571e-02      6.139e+09              2s.2p 3P2.0 -                 2p2 1D2.0
+    5    6        492.612      8.625e-04      2.369e+07              2s.2p 1P1.0 -                 2p2 3P0.0
+    5    7        344.650      5.350e-04      1.001e+07              2s.2p 1P1.0 -                 2p2 3P1.0
+    5    8        294.899      2.978e-02      4.566e+08              2s.2p 1P1.0 -                 2p2 3P2.0
+    5    9        204.099      1.613e-01      5.163e+09              2s.2p 1P1.0 -                 2p2 1D2.0
+    5   10        139.800      1.047e-01      3.570e+10              2s.2p 1P1.0 -                 2p2 1S0.0
+ -1
+%filename: co_24.wgfa
+%Experimental energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+    NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%Allowed transitions oscillator strengths: Zhang, Sampson, 1992, ADNDT, 52, 143
+%Forbidden transition 1-4 oscillator strengths: Muhlethaler, Nussbaumer, 1976, A&A, 48, 109
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1997
+ -1

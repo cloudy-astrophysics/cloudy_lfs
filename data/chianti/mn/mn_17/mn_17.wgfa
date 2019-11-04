@@ -1,0 +1,11 @@
+    1    2       1167.763      0.000e+00      1.075e+04            2s2.2p5 2P1.5 -             2s2.2p5 2P0.5
+    1    3        100.000      2.578e-01      8.594e+10            2s2.2p5 2P1.5 -              2s.2p6 2S0.5
+    2    3        109.365      1.188e-01      3.313e+10            2s2.2p5 2P0.5 -              2s.2p6 2S0.5
+ -1
+%filename: mn_17.wgfa
+%observed energy levels: Edlen, B., 1983, Phys.Scr., 28, 51
+% A values: Bhatia, A.K., 1982, J.Appl.Phys., 53, 59
+% Produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi 1999
+ -1

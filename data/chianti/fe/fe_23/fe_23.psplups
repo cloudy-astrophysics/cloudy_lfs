@@ -1,0 +1,12 @@
+  2  3  2 0.000e+00 2.820e-01 3.180e+02-5.220e-15 1.377e-15 8.020e-14 3.978e-13 8.671e-13 1.251e-12 1.309e-12 8.484e-13-5.617e-14
+  2  4  2 0.000e+00 1.126e+00 1.110e+02-1.530e-13 6.676e-13 1.581e-11 4.120e-11 6.282e-11 7.561e-11 7.577e-11 6.192e-11 2.799e-11
+  3  4  2 0.000e+00 8.443e-01 1.955e+02-4.990e-13 3.995e-12 2.568e-11 4.706e-11 5.992e-11 6.317e-11 5.785e-11 4.412e-11 1.910e-11
+ -1
+%filename: fe_23.psplups
+%rates: Ryans R.S.I., Foster-Woods V.J, Copeland F., Keenan F.P., Matthews A., Reid R.H.G., 1998, ADNDT 70, 179-229
+%energies: CHIANTI database, ver.1, Dere et al., A&AS 125, 149, 1997
+%comment: Fits valid for temperatures 4e6 to 3e8 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young  24-Oct-00
+ -1

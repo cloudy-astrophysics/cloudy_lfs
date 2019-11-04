@@ -1,0 +1,17 @@
+    1                 3d4    3    2  d  210           36065.035           46636.422
+    2              3d3 4s    4    0  s  240          214786.031          223387.766
+    3              3d3 4p    4    1  p  720          285568.094          289390.031
+    4              3d3 4d    4    2  d 1200               0.000          389551.219
+    5              3d3 4f    4    3  f 1680               0.000          456683.000
+    6              3d3 5s    5    0  s  240               0.000          424053.500
+    7              3d3 5p    5    1  p  720               0.000          446720.656
+    8              3d3 5d    5    2  d 1200               0.000          487493.875
+    9              3d3 5f    5    3  f 1680               0.000          519145.937
+ -1
+%filename: fe_5.fblvl
+%observed energies: 1-3: from NIST database.
+%theoretical energies: From the Opacity Project
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young, 26-Jul-2002
+ -1

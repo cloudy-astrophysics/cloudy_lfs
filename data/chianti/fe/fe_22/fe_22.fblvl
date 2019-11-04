@@ -1,0 +1,18 @@
+    1               2s22p    2    1  p    6           78840.000           78846.667
+    2               2s23s    3    0  s    2               0.000         8135690.000
+    3               2s23p    3    1  p    6         8361466.667         8339791.000
+    4               2s23d    3    2  d   10         8503400.000         8525729.000
+    5               2s24s    4    0  s    2        11050000.000        11019345.000
+    6               2s24p    4    1  p    6               0.000        11101976.333
+    7               2s24d    4    2  d   10        11140000.000        11170345.400
+    8               2s24f    4    3  f   14               0.000        11208513.286
+ -1
+%filename: fe_22.fblvl
+%experimental energy levels: Shirai,T., Sugar,J., Musgrove,A., Wiese,W.L.,2000, J.Phys.Chem.Ref.Data, Monograph 8
+%experimental energy levels : Kelly, R. L., 1987, J. Phys. Chem. Ref. Data 16, Suppl. 1
+%theoretical energy levels: Badnell, N.R., Griffin, D.C., & Mitnik, D.M. 2001, J.Ph.B, 34, 5071
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 18 2002
+ -1

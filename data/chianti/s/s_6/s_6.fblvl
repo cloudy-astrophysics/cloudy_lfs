@@ -1,0 +1,22 @@
+    1                  3s    3    0  s    2               0.000               0.000
+    2                  3p    3    1  p    6          106716.336          106441.025
+    3                  3d    3    2  d   10          247442.000          246731.172
+    4                  4s    4    0  s    2          362988.812          360297.211
+    5                  4p    4    1  p    6          401474.459          398770.023
+    6                  4d    4    2  d   10          451807.012          449019.860
+    7                  4f    4    3  f   14          462650.094          459021.296
+    8                  5s    5    0  s    2          504102.406          500641.375
+    9                  5p    5    1  p    6          522176.031          518788.999
+   10                  5d    5    2  d   10          546054.225          542582.949
+   11                  5f    5    3  f   14          551759.625          547952.093
+   12                  5g    5    4  g   18          552115.000          548147.751
+ -1
+%filename: s_6.fblvl
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995, 
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61
+%Theoretical energy levels: Sampson, D.H., Zhang, H.L., Fontes, C.J., 1990, ADNDT, 44, 209
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% K.P.Dere - Jul 22 2002
+ -1

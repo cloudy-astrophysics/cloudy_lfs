@@ -1,0 +1,15 @@
+    1              2s22p5    2    1  p    6             742.667             734.333
+    2            2s22p43s    3    0  s   30          564467.958               0.000
+    3            2s22p43p    3    1  p   90          622788.151               0.000
+    4            2s22p43d    3    2  d  150          693375.458               0.000
+ -1
+%filename: mg_4.fblvl
+%energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995, 
+    NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61
+%additional energy levels: NIST Atomic Spectra Database Version 2.0
+%theoretical energy levels: Bhatia, A.K., private communications
+%comment: free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 22 2002
+ -1

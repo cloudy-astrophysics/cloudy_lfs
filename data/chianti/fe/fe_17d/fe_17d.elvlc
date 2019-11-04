@@ -1,0 +1,39 @@
+  1     1 2p6             1  0 S  0.0  1          0.000       0.000000          0.000       0.000000
+  2     2 2p5.3s          3  1 P  2.0  5    5848620.000      53.296550    5855680.500      53.360889
+  3     2 2p5.3s          1  1 P  1.0  3    5864000.000      53.436703    5871661.500      53.506519
+  4     2 2p5.3s          3  1 P  0.0  1    5950710.000      54.226862    5956518.000      54.279789
+  5     2 2p5.3s          3  1 P  1.0  3    5960270.000      54.313979    5967008.000      54.375381
+  6     3 2p5.3p          3  0 S  1.0  3    6092810.000      55.521773    6099089.000      55.578991
+  7     3 2p5.3p          3  2 D  2.0  5    6121010.000      55.778750    6128677.500      55.848621
+  8     3 2p5.3p          3  2 D  3.0  7    6134030.000      55.897397    6141047.500      55.961342
+  9     3 2p5.3p          1  1 P  1.0  3    6143140.000      55.980414    6150493.500      56.047421
+ 10     3 2p5.3p          3  1 P  2.0  5    6157770.000      56.113732    6164853.500      56.178280
+ 11     3 2p5.3p          3  1 P  0.0  1    6201860.000      56.515510    6211008.000      56.598869
+ 12     3 2p5.3p          3  2 D  1.0  3    6218510.000      56.667236    6225625.000      56.732073
+ 13     3 2p5.3p          3  1 P  1.0  3    6244720.000      56.906079    6250816.500      56.961632
+ 14     3 2p5.3p          1  2 D  2.0  5    6247750.000      56.933690    6254324.500      56.993599
+ 15     3 2p5.3p          1  0 S  0.0  1    6352630.000      57.889427    6382883.000      58.165112
+ 16     4 1s.2s2.2p6.3s   3  0 S  1.0  3   57735005.000     526.120104   57735005.000     526.120104
+ 17     4 1s.2s2.2p6.3s   1  0 S  0.0  1   57775332.000     526.487591   57775332.000     526.487591
+ 18     5 1s.2s2.2p6.3p   3  1 P  0.0  1   57995519.000     528.494083   57995519.000     528.494083
+ 19     5 1s.2s2.2p6.3p   3  1 P  1.0  3   58000359.000     528.539188   58000359.000     528.539188
+ 20     5 1s.2s2.2p6.3p   3  1 P  2.0  5   58019716.000     528.714582   58019716.000     528.714582
+ 21     5 1s.2s2.2p6.3p   1  1 P  1.0  3   58043106.000     528.927727   58043106.000     528.927727
+ -1
+%filename: fe_17d.elvlc
+%Energy levels (below ionization): Shirai,T., Sugar,J., Musgrove,A., Wiese,W.L., 2000, J.Phys.Chem.Ref.Data, Monograph 8
+%Energy levels (above ionization): Mendoza, C., Kallman, T.R., Bautista, M.A., Palmeri, P., 2004, A&A, 414, 377
+%Comment: some energy levels from the NIST database, version 2.0, have been renumbered
+        in order to match the identification given by Bhatia and Doschek
+        and their theoretical energy levels. In particular, the following changes
+        have been made:
+                        NIST  -->  CHIANTI
+                         12   -->     9
+                         13   -->    12
+                          9   -->    13
+%Comment: the theoretical energies from Mendoza et al have been used as experimental ones.
+%Comment: the LS notation for energy levels has been taken from Mendoza et al.
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Enrico Landi - Jan 2005
+ -1

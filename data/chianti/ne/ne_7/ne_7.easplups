@@ -1,0 +1,11 @@
+ 10  7  1  4  1 5.548e-01 6.569e+01 1.300e+00 2.242e-02 2.202e-02 2.257e-02 2.518e-02 3.367e-02
+ 10  7  1  5  1 1.207e-01 7.465e+01 1.600e+00 6.646e-03 6.247e-03 6.310e-03 6.674e-03 6.481e-03
+-1
+%file:  ne_7.easplups
+%excitation autoionization rate coefficient parameter file
+ derived from fits to experimental and theoretical data
+Dere, K. P., 2007, A&A, 466, 771
+ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
+ created for CHIANTI database for astrophysical spectroscopy
+  created by Ken Dere  (GMU)  Fri Jan 26 12:40:27 2007
+-1

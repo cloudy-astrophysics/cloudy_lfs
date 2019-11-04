@@ -1,0 +1,1 @@
+/Users/gary/cloudy/stars/atlas_fm10k2.mod

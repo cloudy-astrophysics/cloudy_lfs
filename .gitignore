@@ -1,0 +1,22 @@
+.*
+!.gitignore
+*.o
+*.lo
+*.a
+*.so
+*~
+\#*\#
+*.dep
+*.gch
+# LaTeX temporary files
+*.aux
+*.log
+*.bbl
+*.blg
+*.lof
+*.lot
+*.out
+*.toc
+*.exe
+
+

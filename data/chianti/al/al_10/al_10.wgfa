@@ -1,0 +1,29 @@
+    1    3        637.764      3.023e-05      1.652e+05                2s2 1S0.0 -               2s.2p 3P1.0
+    1    4        623.330      0.000e+00      1.738e-01                2s2 1S0.0 -               2s.2p 3P2.0
+    1    5        332.790      2.977e-01      5.974e+09                2s2 1S0.0 -               2s.2p 1P1.0
+    2    7        397.822      1.162e-01      1.631e+09              2s.2p 3P0.0 -                 2p2 3P1.0
+    3    4      27540.674      0.000e+00      1.560e+00              2s.2p 3P1.0 -               2s.2p 3P2.0
+    3    6        403.591      1.142e-01      4.672e+09              2s.2p 3P1.0 -                 2p2 3P0.0
+    3    7        400.451      8.638e-02      1.197e+09              2s.2p 3P1.0 -                 2p2 3P1.0
+    3    8        395.426      1.464e-01      1.249e+09              2s.2p 3P1.0 -                 2p2 3P2.0
+    3    9        341.374      6.310e-05      7.219e+05              2s.2p 3P1.0 -                 2p2 1D2.0
+    3   10        251.899      0.000e+00      1.177e+06              2s.2p 3P1.0 -                 2p2 1S0.0
+    4    7        406.359      1.414e-01      1.903e+09              2s.2p 3P2.0 -                 2p2 3P1.0
+    4    8        401.187      4.298e-01      3.561e+09              2s.2p 3P2.0 -                 2p2 3P2.0
+    4    9        345.659      1.653e-03      1.845e+07              2s.2p 3P2.0 -                 2p2 1D2.0
+    5    6        960.764      3.811e-05      2.752e+05              2s.2p 1P1.0 -                 2p2 3P0.0
+    5    7        943.158      8.759e-06      2.188e+04              2s.2p 1P1.0 -                 2p2 3P1.0
+    5    8        915.753      4.760e-04      7.568e+05              2s.2p 1P1.0 -                 2p2 3P2.0
+    5    9        670.054      3.350e-01      9.948e+08              2s.2p 1P1.0 -                 2p2 1D2.0
+    5   10        394.800      2.256e-01      9.649e+09              2s.2p 1P1.0 -                 2p2 1S0.0
+ -1
+%filename: al_10.wgfa
+%energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995, 
+    NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61.
+%Allowed transitions oscillator strengths: Zhang, Sampson, ADNDT, 1992 , 52, 143
+%comment: transitions 1-4, 3-4, 3-10 have been interpolated from
+    the data of Be-like ions in Muhlethaler, Nussbaumer, A&A, 1976, 48, 109
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% E. Landi 1995
+ -1

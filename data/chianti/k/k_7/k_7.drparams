@@ -1,0 +1,13 @@
+    1
+   19    7  2.6670e+03  8.5880e+03  5.8120e+04  2.8070e+05  6.0880e+05  6.0880e+05  0.0000e+00  0.0000e+00  0.0000e+00
+   19    7  2.6740e-04  4.4050e-04  2.3970e-03  6.7750e-02  4.3130e-03  4.3130e-03  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  k_7.drparams
+%parameters for dielectronic recombination rate coefficients
+Abdel-Naby, Sh. A., Nikolic, D., Gorczyca, T. W., Korista, K. T., Badnell, N. R.
+2012,A&A, 537, 40.
+Dielectronic recombination data for dynamic finite-density plasmas. XIV. The aluminum isoelectronic sequence
+http://adsabs.harvard.edu/abs/2012A%26A...537A..40A
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:13:03 2012
+-1

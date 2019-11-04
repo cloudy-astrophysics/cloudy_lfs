@@ -1,0 +1,17 @@
+    1    2      88230.102      0.000e+00      2.610e-02   3s2 3p2 3P0 - 3s2 3p2 3P1
+    1    3      34162.340      0.000e+00      4.990e-06   3s2 3p2 3P0 - 3s2 3p2 3P2
+    2    3      55747.577      0.000e+00      7.730e-02   3s2 3p2 3P1 - 3s2 3p2 3P2
+    1    4       5269.314      0.000e+00      7.330e-05   3s2 3p2 3P0 - 3s2 3p2 1D2
+    2    4       5603.999      0.000e+00      5.217e-01   3s2 3p2 3P1 - 3s2 3p2 1D2
+    3    4       6230.296      0.000e+00      1.143e+00   3s2 3p2 3P2 - 3s2 3p2 1D2
+    2    5       2368.243      0.000e+00      1.560e+01   3s2 3p2 3P1 - 3s2 3p2 1S0
+    3    5       2473.313      0.000e+00      1.160e-01   3s2 3p2 3P2 - 3s2 3p2 1S0
+    4    5       4101.554      0.000e+00      3.880e+00   3s2 3p2 1D2 - 3s2 3p2 1S0
+ -1
+%filename: k_6.wgfa
+%observed energy levels: Version 3.0.3 of the NIST online database. http://physics.nist.gov/PhysRefData/ASD/index.html
+%A-values: Mendoza, C. & Zeippen, C.J., 1982, MNRAS, 199, 1025
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%    Peter Young  -  19-Jun-2006
+ -1

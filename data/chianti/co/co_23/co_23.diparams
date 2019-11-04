@@ -1,0 +1,13 @@
+   27   23    9    2    0
+    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
+ 1961.4300    0.0000    1.9356    3.7396    5.3779    6.8363    7.8267    7.9264    6.7260    3.9110
+    2.0000    0.0000    0.1250    0.2500    0.3750    0.5000    0.6250    0.7500    0.8750    1.0000
+ 9090.7710    0.0000    1.1722    2.3735    3.7741    5.3046    6.4740    6.7882    6.0535    4.0993
+-1
+%file:  co_23.diparams
+%direct ionization parameter file
+ derived from fits to experimental and theoretical data
+Dere, K. P., 2007, A&A, 466, 771
+ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
+  created by Ken Dere  (GMU)  Fri Jan 26 12:40:28 2007
+-1

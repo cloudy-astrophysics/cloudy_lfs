@@ -1,0 +1,3 @@
+test
+constant temperature 2 vary
+grid 2 6 0.2 log

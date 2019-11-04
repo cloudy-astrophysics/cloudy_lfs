@@ -1,0 +1,13 @@
+  2  3  2 0.000e+00 3.912e-02 4.750e+02-2.381e-13-1.493e-15 7.260e-13 4.144e-12 1.040e-11 1.688e-11 1.960e-11 1.439e-11-7.153e-13
+  2  4  2 0.000e+00 1.276e-01 2.640e+02-5.728e-12 2.366e-11 1.524e-10 2.886e-10 3.770e-10 4.095e-10 3.870e-10 3.066e-10 1.421e-10
+  3  4  2 0.000e+00 8.847e-02 3.605e+02-1.181e-11 2.302e-11 1.252e-10 2.287e-10 2.977e-10 3.240e-10 3.071e-10 2.424e-10 1.099e-10
+ -1
+%filename: s_13.psplups
+%rates: Ryans R.S.I., Foster-Woods V.J, Copeland F., Keenan F.P., Matthews A., Reid R.H.G., 1998, ADNDT 70, 179-229
+%energies: Martin W.C., Sugar J., Musgrove A., Dalton G.R., 1995, NIST Database for Atomic Spectroscopy, 
+    Version 1.0, NIST Standard Reference Database 61.
+%comment: Fits valid for temperatures 5e5 to 7.5e7 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young  24-Oct-00
+ -1

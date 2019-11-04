@@ -1,0 +1,19 @@
+    1             3s2 3p2    3    1  p   15           30170.699               0.000
+    2           3s2 3p 3d    3    2  d   60          490494.500               0.000
+    3           3s2 3p 4s    4    0  s   12               0.000         1368506.000
+    4           3s2 3p 4p    4    1  p   36               0.000         1484907.500
+    5           3s2 3p 4d    4    2  d   60               0.000         1640946.250
+    6           3s2 3p 4f    4    3  f   84               0.000         1757206.500
+    7           3s2 3p 5s    5    0  s   12               0.000         2020821.500
+    8           3s2 3p 5p    5    1  p   36               0.000         2073088.000
+    9           3s2 3p 5d    5    2  d   60               0.000         2140409.500
+   10           3s2 3p 5f    5    3  f   84               0.000         2188113.750
+   11           3s2 3p 5g    5    4  g  108               0.000         2199388.250
+ -1
+%filename: fe_13.fblvl
+%observed energies: 1-2: from CHIANTI .elvlc file
+%theoretical energies: From a SSTRUCT model of the ion.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young, 26-Jul-2002
+ -1

@@ -1,0 +1,11 @@
+  1  2  2 0.000e+00 5.238e-02 4.050e+01 0.000e+00 0.000e+00 3.625e-11 2.806e-10 8.581e-10
+  1  3  2 0.000e+00 7.123e-02 3.200e+01 0.000e+00 0.000e+00 1.162e-11 1.015e-10 3.235e-10
+  2  3  2 0.000e+00 1.885e-02 2.150e+02-1.000e-12-1.375e-12-1.756e-13 1.197e-12 7.473e-12 2.603e-11 6.395e-11 1.063e-10 1.000e-10
+ -1
+%filename: p_8.psplups
+%rates: Landman, D.A., ApJ 240, 709, 1980
+%energies: Observed energies from CHIANTI .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young   8-Jun-2001
+ -1

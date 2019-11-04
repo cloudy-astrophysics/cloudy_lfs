@@ -1,0 +1,54 @@
+    1    2      95102.235      0.000e+00      3.250e-02   3p6 3d2 3F2 - 3p6 3d2 3F3
+    2    3      78125.000      0.000e+00      4.660e-02   3p6 3d2 3F3 - 3p6 3d2 3F4
+    1    4       5722.297      0.000e+00      3.720e-01   3p6 3d2 3F2 - 3p6 3d2 1D2
+    2    4       6088.651      0.000e+00      6.030e-01   3p6 3d2 3F3 - 3p6 3d2 1D2
+    3    4       6603.275      0.000e+00      1.390e-03   3p6 3d2 3F4 - 3p6 3d2 1D2
+    1    5       4989.945      0.000e+00      1.350e-01   3p6 3d2 3F2 - 3p6 3d2 3P0
+    1    6       4894.739      0.000e+00      5.020e-02   3p6 3d2 3F2 - 3p6 3d2 3P1
+    2    6       5160.332      0.000e+00      7.620e-02   3p6 3d2 3F3 - 3p6 3d2 3P1
+    4    6      33845.533      0.000e+00      5.720e-02   3p6 3d2 1D2 - 3p6 3d2 3P1
+    5    6     256542.588      0.000e+00      1.150e-03   3p6 3d2 3P0 - 3p6 3d2 3P1
+    1    7       4699.557      0.000e+00      1.500e-02   3p6 3d2 3F2 - 3p6 3d2 3P2
+    2    7       4943.863      0.000e+00      6.970e-02   3p6 3d2 3F3 - 3p6 3d2 3P2
+    3    7       5277.853      0.000e+00      7.350e-02   3p6 3d2 3F4 - 3p6 3d2 3P2
+    4    7      26294.342      0.000e+00      1.820e-01   3p6 3d2 1D2 - 3p6 3d2 3P2
+    6    7     117855.038      0.000e+00      7.430e-03   3p6 3d2 3P1 - 3p6 3d2 3P2
+    1    8       3456.942      0.000e+00      9.590e-04   3p6 3d2 3F2 - 3p6 3d2 1G4
+    2    8       3587.341      0.000e+00      3.430e-01   3p6 3d2 3F3 - 3p6 3d2 1G4
+    3    8       3759.992      0.000e+00      5.030e-01   3p6 3d2 3F4 - 3p6 3d2 1G4
+    4    8       8732.251      0.000e+00      4.140e-03   3p6 3d2 1D2 - 3p6 3d2 1G4
+    7    8      13074.115      0.000e+00      4.540e-05   3p6 3d2 3P2 - 3p6 3d2 1G4
+    1    9       1490.795      0.000e+00      1.810e-01   3p6 3d2 3F2 - 3p6 3d2 1S0
+    4    9       2016.015      0.000e+00      2.670e+01   3p6 3d2 1D2 - 3p6 3d2 1S0
+    6    9       2143.706      0.000e+00      6.880e+00   3p6 3d2 3P1 - 3p6 3d2 1S0
+    7    9       2183.421      0.000e+00      1.110e+00   3p6 3d2 3P2 - 3p6 3d2 1S0
+ -1
+%filename: fe_7.wgfa
+%observed energies: Fuhr et al., 1999, NIST Atomic Spectra Database Version 2.0
+%A-values: Berrington, K.A., Nakazaki, S., Norrington, P.H., 2000, A&AS, 142, 313
+%comment:
+     The following A-values were incorrect in the Berrington et al. (2000)
+     paper and have been corrected (K.A. Berrington, 2004, private communication)
+
+i-i'   A(correct)    (in paper)
+1-4   .372            3.25
+1-7   .0150            .174
+4-7   .182             .191
+
+     The following table lists those transitions for which the new
+     A-values (A_2) are more than 30% different from the previous
+     CHIANTI A-values (Nussbaumer & Storey 1982).
+
+  i  j       wvl       A_1       A_2   %diff
+  1  5  4989.954 9.37e-002 1.35e-001   44.08
+  1  6  4894.748 3.55e-002 5.02e-002   41.41
+  2  6  5160.341 5.25e-002 7.62e-002   45.14
+  3  7  5277.862 4.96e-002 7.35e-002   48.19
+  4  6 33845.598 4.37e-002 5.72e-002   30.89
+  4  8  8732.268 1.23e-003 4.14e-003  236.59
+  7  8 13074.140 1.74e-005 4.54e-005  160.92
+
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  P.R. Young - 19-Feb-2004
+ -1

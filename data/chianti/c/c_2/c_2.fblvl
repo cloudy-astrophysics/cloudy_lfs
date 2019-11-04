@@ -1,0 +1,24 @@
+    1               2s22p    2    1  p    6              42.280              42.651
+    2               2s23s    3    0  s    2          116537.650          116537.837
+    3               2s23p    3    1  p    6          131731.803          131732.105
+    4               2s23d    3    2  d   10          145550.128               0.000
+    5               2s24s    4    0  s    2          157234.062               0.000
+    6               2s24p    4    1  p    6          162522.339               0.000
+    7               2s24d    4    2  d   10          168124.166               0.000
+    8               2s24f    4    3  f   14          168978.585               0.000
+    9               2s25s    5    0  s    2          173347.844               0.000
+   10               2s25p    5    1  p    6          175292.297               0.000
+   11               2s25d    5    2  d   10          178495.466               0.000
+   12               2s25f    5    3  f   14          178955.938               0.000
+   13               2s25g    5    4  g   18          179073.047               0.000
+   -1
+%filename: c_2.fblvl
+%energy levels: Moore, C.E., Tables of Spectra of Hydrogen, Carbon,
+  Nitrogen, and Oxygen Atoms and Ions, J. W. Gallagher ed., CRC Press, 1993
+%Theoretical energy levels: Zhang, H.L., Graziani, M., Pradhan, A.K., 1994, A&A, 283, 319
+%additional energy levels: NIST Atomic Spectra Database Version 2.0
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration 
+%
+% K.P.Dere - Jul 18 2002
+-1

@@ -1,0 +1,9 @@
+ 26  5  1 30  5 0.000e+00 5.175e+02 2.000e+00 2.363e-03 2.363e-03 2.363e-03 2.363e-03 2.363e-03 2.363e-03 2.363e-03 2.363e-03 2.363e-03 2.363e-03 2.363e-03
+ 26  5  1 31  5 0.000e+00 5.175e+02 2.000e+00 1.688e-03 1.688e-03 1.688e-03 1.688e-03 1.688e-03 1.688e-03 1.688e-03 1.688e-03 1.688e-03 1.688e-03 1.688e-03
+ -1
+%filename: fe_5d.splups
+%Effective collision strengths and autoionization rates: Palmeri P., Mendoza C., Kallman T.R., Bautista M.A., Melendez M., 2003, A&A, 410, 359
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%  E. Landi - Oct 2004
+ -1

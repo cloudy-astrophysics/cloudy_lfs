@@ -1,0 +1,28 @@
+    1    3        277.801      1.268e-03      3.652e+07                2s2 1S0.0 -               2s.2p 3P1.0
+    1    4        228.676      0.000e+00      5.746e+00                2s2 1S0.0 -               2s.2p 3P2.0
+    1    5        141.090      1.608e-01      1.795e+10                2s2 1S0.0 -               2s.2p 1P1.0
+    2    7        157.580      6.568e-02      5.878e+09              2s.2p 3P0.0 -                 2p2 3P1.0
+    3    4       1293.162      0.000e+00      5.436e+03              2s.2p 3P1.0 -               2s.2p 3P2.0
+    3    6        181.690      5.760e-02      1.163e+10              2s.2p 3P1.0 -                 2p2 3P0.0
+    3    7        164.479      4.602e-02      3.780e+09              2s.2p 3P1.0 -                 2p2 3P1.0
+    3    8        154.281      8.608e-02      4.822e+09              2s.2p 3P1.0 -                 2p2 3P2.0
+    3    9        130.601      4.240e-03      3.314e+08              2s.2p 3P1.0 -                 2p2 1D2.0
+    3   10        102.414      0.000e+00      1.346e+08              2s.2p 3P1.0 -                 2p2 1S0.0
+    4    7        188.448      6.767e-02      4.234e+09              2s.2p 3P2.0 -                 2p2 3P1.0
+    4    8        175.181      1.726e-01      7.500e+09              2s.2p 3P2.0 -                 2p2 3P2.0
+    4    9        145.273      5.895e-02      3.725e+09              2s.2p 3P2.0 -                 2p2 1D2.0
+    5    6        496.057      7.695e-04      2.085e+07              2s.2p 1P1.0 -                 2p2 3P0.0
+    5    7        385.833      3.713e-04      5.543e+06              2s.2p 1P1.0 -                 2p2 3P1.0
+    5    8        334.035      2.329e-02      2.783e+08              2s.2p 1P1.0 -                 2p2 3P2.0
+    5    9        239.872      1.751e-01      4.057e+09              2s.2p 1P1.0 -                 2p2 1D2.0
+    5   10        159.330      1.120e-01      2.942e+10              2s.2p 1P1.0 -                 2p2 1S0.0
+ -1
+%filename: mn_22.wgfa
+%Experimental energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61
+%Allowed transitions oscillator strengths: Zhang, Sampson, 1992, ADNDT, 52, 143
+%oscillator strengths forbidden transitions: Muhlethaler, Nussbaumer, 1976, A&A, 48, 109
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%   Enrico Landi 1997
+ -1

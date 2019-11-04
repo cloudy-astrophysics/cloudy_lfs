@@ -1,0 +1,66 @@
+
+                       CHIANTI 
+
+         A DATABASE FOR EMISSION LINE SPECTROSCOPY
+
+                     Version 7.1.4   
+                    ---------------
+
+
+   October 31, 2013
+
+--------------------------------------------------------------------------
+
+CHIANTI consists of a database of atomic data and IDL procedures for
+calculating spectroscopic emission line intensities from optically thin
+astrophysical spectra as a function of density and temperature. 
+
+CHIANTI includes atomic parameters such as ion level energies, ionization
+potentials, spectroscopic informations, and transition rates for spontaneous 
+radiative decay, electron and proton excitation and de-excitation, and
+parameters for the calculation of continuum radiation.
+
+The original paper describing the database has appeared in 1997 in Astronomy 
+and Astrophysics Supplement Series, 125, 149, authored by K. P. Dere (NRL), 
+E.  Landi (U. Florence), H. E. Mason (U. Cambridge), B. Monsignori Fossi
+(Arcetri) and P. R. Young (U. Cambridge). Since then, CHIANTI has undergone
+several major updates to include data for many more ions and physical
+processes, as well as to update and to expand the data of the ions already
+in the database.
+
+With Version 7, CHIANTI includes data for new ions, as well as significant
+upgrades to the data of several key Fe ions. Data for many other existing
+ions have been updated or expanded. Also, a complete suite of programs 
+written in Python language is released, that allows to calculate synthetic 
+spectra and carry out plasma diagnostics with roughly the same level of 
+functionality of the standard IDL suite of programs.
+
+The CHIANTI database, IDL software and User Guides are distributed freely
+and they are available in the Internet, at the following address:
+
+                 http://www.chiantidatabase.org
+
+CHIANTI is also freely distributed as part of the SolarSoft package 
+(http:www.lmsal.com/solarsoft). The Python suite of programs can be found
+at 
+
+                 http://chiantipy.sourceforge.net
+
+--------------------------------------------------------------------------
+
+If you have any questions or comments, the responsible parties are:
+
+Enrico Landi         elandi@umich.edu
+Ken Dere             kdere@gmu.edu
+Peter Young          pyoung@ssd5.nrl.navy.mil
+Giulio Del Zanna     G.Del-Zanna@damtp.cam.ac.uk
+Helen Mason          H.E.Mason@damtp.cam.ac.uk
+
+Any problems should be addressed to CHIANTI HELP: chianti_help@louis14.nrl.navy.mil
+
+If you would like to get on a mailing list to get news about future progress
+with CHIANTI, send an e-mail to Enrico Landi.
+
+
+
+

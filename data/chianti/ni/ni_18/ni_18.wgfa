@@ -1,0 +1,46 @@
+    1    2        320.566      2.272e-01      7.376e+09                 3s 2S0.5 -                  3p 2P0.5
+    1    3        291.984      5.035e-01      9.849e+09                 3s 2S0.5 -                  3p 2P1.5
+    2    4        220.429      5.278e-01      1.812e+10                 3p 2P0.5 -                  3d 2D1.5
+    3    4        236.337      9.857e-02      2.943e+09                 3p 2P1.5 -                  3d 2D1.5
+    3    5        233.757      9.002e-01      1.832e+10                 3p 2P1.5 -                  3d 2D2.5
+    1    7         41.218      1.708e-01      3.354e+11                 3s 2S0.5 -                  4p 2P0.5
+    1    8         41.016      3.161e-01      3.134e+11                 3s 2S0.5 -                  4p 2P1.5
+    2    6         50.255      1.140e-01      1.506e+11                 3p 2P0.5 -                  4s 2S0.5
+    2    9         43.813      6.429e-01      5.586e+11                 3p 2P0.5 -                  4d 2D1.5
+    3    6         51.038      2.465e-01      3.157e+11                 3p 2P1.5 -                  4s 2S0.5
+    3    9         44.407      1.356e-01      1.147e+11                 3p 2P1.5 -                  4d 2D1.5
+    3   10         44.365      1.208e+00      6.823e+11                 3p 2P1.5 -                  4d 2D2.5
+    4    7         60.223      1.237e-01      1.137e+11                 3d 2D1.5 -                  4p 2P0.5
+    4    8         59.791      2.305e-02      1.075e+10                 3d 2D1.5 -                  4p 2P1.5
+    4   11         52.615      3.607e+00      1.449e+12                 3d 2D1.5 -                  4f 2F2.5
+    5    8         59.959      2.111e-01      9.795e+10                 3d 2D2.5 -                  4p 2P1.5
+    5   11         52.744      2.583e-01      1.032e+11                 3d 2D2.5 -                  4f 2F2.5
+    5   12         52.720      5.172e+00      1.552e+12                 3d 2D2.5 -                  4f 2F3.5
+    1   14         29.829      5.109e-02      1.915e+11                 3s 2S0.5 -                  5p 2P0.5
+    1   15         29.779      9.662e-02      1.817e+11                 3s 2S0.5 -                  5p 2P1.5
+    2   13        -33.609      2.336e-02      6.903e+10                 3p 2P0.5 -                  5s 2S0.5
+    2   16         32.033      2.020e-01      3.283e+11                 3p 2P0.5 -                  5d 2D1.5
+    3   13        -33.956      4.966e-02      1.437e+11                 3p 2P1.5 -                  5s 2S0.5
+    3   16         32.350      4.170e-02      6.646e+10                 3p 2P1.5 -                  5d 2D1.5
+    3   17         32.340      3.736e-01      3.972e+11                 3p 2P1.5 -                  5d 2D2.5
+    4   14         38.658      2.054e-02      4.586e+10                 3d 2D1.5 -                  5p 2P0.5
+    4   15         38.573      3.886e-03      4.356e+09                 3d 2D1.5 -                  5p 2P1.5
+    4   18         36.989      6.824e-01      5.546e+11                 3d 2D1.5 -                  5f 2F2.5
+    5   15         38.643      3.546e-02      3.961e+10                 3d 2D2.5 -                  5p 2P1.5
+    5   18         37.053      4.856e-02      3.933e+10                 3d 2D2.5 -                  5f 2F2.5
+    5   19         37.049      9.753e-01      5.925e+11                 3d 2D2.5 -                  5f 2F3.5
+   11   20        123.951      8.076e+00      4.383e+11                 4f 2F2.5 -                  5g 2G3.5
+   12   20        124.085      2.960e-01      1.603e+10                 4f 2F3.5 -                  5g 2G3.5
+   12   21        124.039      1.047e+01      4.541e+11                 4f 2F3.5 -                  5g 2G4.5
+ -1
+%filename: ni_18.wgfa
+%energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995, 
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61
+%oscillator strengths: Sampson, D.H., Zhang, H.L., Fontes, C.J., 1990, ADNDT, 44, 209
+%oscillator strengths: hydrogenic values for 4f-5g
+%oscillator strengths: Wiese, W.L., Smith, M.W., Glennon, B.M.,
+   Atomic Transition Probabilities, Vol I, Hydrogen through Neon, NSRDS-NBS-4
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%   K.P. Dere, Dec. 1994
+ -1

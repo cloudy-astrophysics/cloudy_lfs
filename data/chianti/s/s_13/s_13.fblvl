@@ -1,0 +1,18 @@
+    1                 2s2    2    0  s    1               0.000               0.000
+    2                2s2p    2    1  p   12          253688.500               0.000
+    3                2s3s    3    0  s    4         3020950.000               0.000
+    4                2s3p    3    1  p   12         3105500.000               0.000
+    5                2s3d    3    2  d   20         3166790.000               0.000
+    6                2s4s    4    0  s    4         4024900.000               0.000
+    7                2s4p    4    1  p   12         4066700.000               0.000
+    8                2s4d    4    2  d   20         4088294.118               0.000
+ -1
+%filename: s_13.fblvl
+%energy levels: NIST Atomic Spectra Database Version 2.0
+%additional energy levels: Khardi et al, 1994, Physica Scripta, 49, 571
+%additional energy levels: Martin, W.C., Zalubas, R., Musgrove, A., 1990, J.Phys.Chem.Ref.Data, 19, 821
+%comment:  free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base
+%
+% E. Landi - Jul 2002
+ -1

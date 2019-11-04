@@ -1,0 +1,12 @@
+    1               3s23p    3    1  p    6           18513.333           17064.667
+    2               3s23d    3    2  d   10          541850.000          569567.000
+ -1
+%filename: ni_16.fblvl
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995, 
+  NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61
+%Theoretical energy levels: Bhatia and Doschek, 1999, ADNDT, 71, 69
+%comment: free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 22 2002
+ -1

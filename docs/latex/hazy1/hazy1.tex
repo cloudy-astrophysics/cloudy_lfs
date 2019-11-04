@@ -1,0 +1,119 @@
+\documentclass[12pt]{book}
+% !TEX root = hazy1.tex
+%\includeonly{intro}
+%\includeonly{define}
+%\includeonly{cmdintro}
+%\includeonly{cont-def}
+%\includeonly{cont-lum}
+%\includeonly{cont-shp}
+%\includeonly{compos}
+%\includeonly{density}
+%\includeonly{geometry}
+%\includeonly{optdepth}
+%\includeonly{therm}
+%\includeonly{dynamics-time}
+%\includeonly{stopping}
+%\includeonly{conout}
+%\includeonly{optimize}
+%\includeonly{grid}
+%\includeonly{miscell}
+%\includeonly{latex_style}
+
+\input{../head_info}
+\input{../common/macros}
+\input{../variables}
+
+\begin{document}
+\frontmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  title page
+\begin{titlepage}
+\begin{center}
+
+\Huge
+Hazy\\
+\Large
+\emph{a brief introduction to \Cloudy\ C\VERSION}\\
+\LARGE
+1. Introduction and commands
+
+\begin{figure}
+\begin{center}
+\hspace*{-1cm}
+\includegraphics[clip=on,width=\columnwidth,height=0.6\textheight,keepaspectratio]{cooling-flow-spectrum-hazy1}
+\end{center}
+\end{figure}
+
+\vspace{10 mm }
+\LARGE
+\emph{Cloudy \& Associates} \\
+\Large
+\href{http://www.nublado.org}{www.nublado.org} \\
+\normalsize
+\today
+\end{center}
+\end{titlepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% page with one figure and boilerplate text
+\clearpage
+\input{../frontis_common}
+\vspace{5mm}
+\noindent
+{\small
+{\em Cover image:
+The X-ray spectrum of a unit-volume parcel of gas cooling under conditions
+of constant pressure (isobarically) from X-ray temperatures (1~keV), computed
+at three resolving powers.
+In the top panel, the resolving power is comparable the proposed {\it Athena}
+resolving power around 6~keV.
+In the bottom panel, the resolving power is comparable to the {\it Chandra}
+non-dispersive resolving power around 1~keV.
+In the middle panel, the resolving power is at the code default.
+This functionality is new to \Cloudy, and it is described in
+\citet{Chatzikos2015}, and Section~\ref{sec:Cooling-Heating-NonEq} below.
+}
+}
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% table of contents page - only include top two levels
+\tableofcontents
+\listoffigures
+\listoftables
+
+\clearpage
+\mainmatter
+% proofed 1 - read over latex file, remove dead xrefs,
+% include figures, make xregs to figs and tables live
+% NB the equations have not been checked
+% proofed 2 - print document and read in detail
+\include{intro}      
+\include{define}     
+\include{cmdintro}   
+\include{cont-def}   
+\include{cont-lum}   
+\include{cont-shp}   
+\include{compos}     
+\include{density}    
+\include{geometry}   
+\include{optdepth}   
+\include{therm}      
+\include{ControllingModelAtoms}      
+\include{chemistry}      
+\include{dynamics-time}
+\include{stopping}   
+\include{conout}     
+\include{optimize}   
+\include{grid}       
+\include{miscell}    
+\appendix
+\include{vanhoof_grain_model}
+\include{vanhoof_atmosphere_grids}
+\include{latex_style}
+\backmatter
+\bibliographystyle{plainnat}
+\bibliography{../common/bibliography2}
+
+\end{document}

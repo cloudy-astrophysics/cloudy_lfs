@@ -1,0 +1,11 @@
+  1     1        2s2.2p5  2  1 P  1.5  4          0.000       0.000000          0.000       0.000000
+  2     1        2s2.2p5  2  1 P  0.5  2        780.340       0.007111        762.000       0.006944
+  3     2         2s.2p6  2  0 S  0.5  2     217047.610       1.977889     238494.000       2.173323
+ -1
+%filename: ne_2.elvlc
+%observed energy levels: Kelly, R. L., 1987, J.Phys.Chem.Ref.Data 16, Suppl. 1.     
+%theoretical energy levels: Bhatia, private communications
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% K.P.Dere 1994
+ -1

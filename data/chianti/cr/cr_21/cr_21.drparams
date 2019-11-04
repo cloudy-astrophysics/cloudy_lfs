@@ -1,0 +1,12 @@
+    1
+   24   21  1.6490e+04  6.0900e+04  2.4900e+05  8.2120e+05  3.4870e+06  8.9740e+06  5.3910e+07  0.0000e+00  0.0000e+00
+   24   21  7.5890e-04  6.9740e-03  2.8630e-02  8.4180e-02  6.2130e-02  4.8420e-01  2.9450e-01  0.0000e+00  0.0000e+00
+-1
+%file:  cr_21.drparams
+%parameters for dielectronic recombination rate coefficients
+Colgan, J., Pindzola, M.S., Whiteford, A.D., Badnell, N.R., 2003, A&A, 412, 597
+Dielectronic recombination data for dynamic finite-density plasmas. III. The beryllium isoelectronic sequence
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2003A%26A...412..597C
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:09:35 2012
+-1

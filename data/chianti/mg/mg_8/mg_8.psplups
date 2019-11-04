@@ -1,0 +1,14 @@
+  1  2  2 0.000e+00 3.009e-02 2.640e+02 1.195e-11 3.926e-11 3.474e-10 7.931e-10 1.190e-09 1.525e-09 1.724e-09 1.721e-09 1.148e-09
+  3  4  2 0.000e+00 1.040e-02 4.160e+02 3.152e-13 1.668e-12 1.533e-11 4.448e-11 9.475e-11 1.696e-10 2.584e-10 3.306e-10 4.068e-10
+  3  5  2 0.000e+00 2.563e-02 5.750e+01-1.749e-12-5.431e-14 9.451e-13 1.439e-11 7.345e-11 2.287e-10 5.245e-10 9.709e-10 1.482e-09
+  4  5  2 0.000e+00 1.524e-02 1.165e+02-1.810e-13 6.240e-14 5.636e-12 3.911e-11 1.270e-10 2.887e-10 5.372e-10 8.387e-10 1.122e-09
+ -1
+%filename: mg_8.psplups
+%rates: Foster VJ, Keenan FP, Reid RHG, ADNDT 67, 99, 1997
+%energies: From .elvlc file, experimental energies
+%comment: The rate coefficients are in units cm^3/s.
+%comment: Fits valid for temperatures 1e5 to 2.5e6 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young   15-May-2001
+ -1

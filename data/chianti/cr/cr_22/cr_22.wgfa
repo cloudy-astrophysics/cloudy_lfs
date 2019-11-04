@@ -1,0 +1,37 @@
+    1    2       279.7443      3.858e-02      1.644e+09             1s2.2s 2S0.5 -              1s2.2p 2P0.5
+    1    3       222.9808      9.817e-02      3.291e+09             1s2.2s 2S0.5 -              1s2.2p 2P1.5
+    1    5        12.6647      2.550e-01      5.300e+12             1s2.2s 2S0.5 -              1s2.3p 2P0.5
+    1    6        12.6231      4.924e-01      5.150e+12             1s2.2s 2S0.5 -              1s2.3p 2P1.5
+    1   10         9.4931      6.339e-02      2.345e+12             1s2.2s 2S0.5 -              1s2.4p 2P0.5
+    1   11         9.4931      1.244e-01      2.301e+12             1s2.2s 2S0.5 -              1s2.4p 2P1.5
+    1   17        -8.5141      2.622e-02      1.206e+12             1s2.2s 2S0.5 -              1s2.5p 2P0.5
+    1   18        -8.5098      5.176e-02      1.191e+12             1s2.2s 2S0.5 -              1s2.5p 2P1.5
+    2    4        13.3895      3.393e-02      6.308e+11             1s2.2p 2P0.5 -              1s2.3s 2S0.5
+    2    7        13.1484      1.321e+00      1.274e+13             1s2.2p 2P0.5 -              1s2.3d 2D1.5
+    2    9        -9.8667      7.373e-03      2.525e+11             1s2.2p 2P0.5 -              1s2.4s 2S0.5
+    2   12         9.8092      2.448e-01      4.240e+12             1s2.2p 2P0.5 -              1s2.4d 2D1.5
+    2   16        -8.7973      2.908e-03      1.252e+11             1s2.2p 2P0.5 -              1s2.5s 2S0.5
+    2   19        -8.7704      9.061e-02      1.963e+12             1s2.2p 2P0.5 -              1s2.5d 2D1.5
+    3    4        13.5547      7.317e-02      1.328e+12             1s2.2p 2P1.5 -              1s2.3s 2S0.5
+    3    7        13.3076      2.671e-01      2.514e+12             1s2.2p 2P1.5 -              1s2.3d 2D1.5
+    3    8        13.2917      2.410e+00      1.516e+13             1s2.2p 2P1.5 -              1s2.3d 2D2.5
+    3    9        -9.9560      1.572e-02      5.287e+11             1s2.2p 2P1.5 -              1s2.4s 2S0.5
+    3   12         9.8975      4.861e-02      8.270e+11             1s2.2p 2P1.5 -              1s2.4d 2D1.5
+    3   13         9.8653      4.420e-01      5.046e+12             1s2.2p 2P1.5 -              1s2.4d 2D2.5
+    3   16        -8.8682      6.178e-03      2.619e+11             1s2.2p 2P1.5 -              1s2.5s 2S0.5
+    3   19        -8.8409      1.787e-02      3.811e+11             1s2.2p 2P1.5 -              1s2.5d 2D1.5
+    3   20        -8.8394      1.630e-01      2.318e+12             1s2.2p 2P1.5 -              1s2.5d 2D2.5
+    7   14       -38.5548      4.068e-03      3.064e+09             1s2.3d 2D1.5 -              1s2.4f 2F2.5
+    8   14       -38.6819      2.880e-02      2.154e+10             1s2.3d 2D2.5 -              1s2.4f 2F2.5
+    8   15       -38.6554      5.808e+00      3.263e+12             1s2.3d 2D2.5 -              1s2.4f 2F3.5
+ -1
+%filename: cr_22.wgfa
+%observed energy levels: Martin, W.C., Sugar, J., Musgrove, A., Dalton, G.R., 1995,
+   NIST Database for Atomic Spectroscopy, Version 1.0, NIST Standard Reference Database 61
+%theoretical energy levels: Zhang, Sampson, Fontes, ADNDT, 1990, 44, 31
+%Allowed transitions oscillator strengths: Zhang, Sampson, Fontes, ADNDT,1990,44,31
+%oscillator strengths: Martin, I., Karwowski, J., Diercksen, G.H.F., Barrientos, C., 1993, A&AS, 100, 595.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%    Enrico Landi - 1997
+ -1

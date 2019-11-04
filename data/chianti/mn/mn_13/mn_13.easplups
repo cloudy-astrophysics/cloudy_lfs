@@ -1,0 +1,10 @@
+ 25 13  1  2  1 5.590e+00 5.189e+01 1.700e+00 2.234e-01 2.130e-01 2.094e-01 2.061e-01 2.151e-01
+-1
+%file:  mn_13.easplups
+%excitation autoionization rate coefficient parameter file
+ derived from fits to experimental and theoretical data
+Dere, K. P., 2007, A&A, 466, 771
+ADS ref:  http://adsabs.harvard.edu/abs/2007A%26A...466..771D
+ created for CHIANTI database for astrophysical spectroscopy
+  created by Ken Dere  (GMU)  Fri Jan 26 12:40:30 2007
+-1

@@ -1,0 +1,1 @@
+/Users/gary/cloudy/stars/rauch_h-ca_solar.mod

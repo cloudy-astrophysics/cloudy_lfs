@@ -1,0 +1,13 @@
+    1
+   11    9  1.0320e+03  5.5380e+03  1.0260e+05  2.2850e+05  1.7100e+06  1.1600e+07  1.3370e+08  0.0000e+00  0.0000e+00
+   11    9  1.6000e-04  2.9920e-04  2.2330e-03  9.4050e-03  1.6420e-02  6.1490e-02  2.6430e-04  0.0000e+00  0.0000e+00
+-1
+%file:  na_9.drparams
+%parameters for dielectronic recombination rate coefficients
+Colgan, J., Pindzola, M.S., Badnell, N.R., 2004, A&A, 417, 1183
+Dielectronic recombination data for dynamic finite-density plasmas. V: The lithium isoelectronic sequence
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2004A%26A...417.1183C
+Erratum:  http://cdsads.u-strasbg.fr/abs/2005A%26A...429..369C
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:09:32 2012
+-1

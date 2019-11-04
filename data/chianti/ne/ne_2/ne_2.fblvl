@@ -1,0 +1,18 @@
+    1              2s22p5    2    1  p    6             260.113             254.000
+    2            2s22p43s    3    0  s   30          233210.962               0.000
+    3            2s22p43p    3    1  p   90          262268.871               0.000
+    4            2s22p43d    3    2  d  150          289517.506               0.000
+    5            2s22p44s    4    0  s   30          291748.027               0.000
+    6            2s22p44p    4    1  p   90          300943.035               0.000
+    7            2s22p44d    4    2  d  150          309170.528               0.000
+    8            2s22p44f    4    3  f  210          312329.349               0.000
+ -1
+%filename: ne_2.fblvl
+%observed energy levels: Kelly, R. L., 1987, J.Phys.Chem.Ref.Data 16, Suppl.1
+%theoretical energy levels: Bhatia, private communications
+%additional energy levels: NIST Atomic Spectra Database Version 2.0
+%comment: free-bound data file developed from .elvlc file
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% K.P.Dere - Jul 22 2002
+ -1

@@ -1,0 +1,23 @@
+    1               1s22s    2    0  s    2               0.000               0.000
+    2               1s22p    2    1  p    6          129251.433          129246.015
+    3               1s23s    3    0  s    2         1099870.000         1099884.250
+    4               1s23p    3    1  p    6         1135149.333         1135345.333
+    5               1s23d    3    2  d   10         1147450.000         1147889.825
+    6               1s24s    4    0  s    2         1469640.000         1469523.500
+    7               1s24p    4    1  p    6         1484046.667         1483960.625
+    8               1s24d    4    2  d   10         1489168.000         1489412.875
+    9               1s24f    4    3  f   14         1489401.429         1490413.000
+   10               1s25s    5    0  s    2         1637410.000         1637204.125
+   11               1s25p    5    1  p    6         1644850.000         1644516.667
+   12               1s25d    5    2  d   10         1647380.000         1647285.875
+   13               1s25f    5    3  f    6         1647440.000         1647769.750
+   14               1s25g    5    4  g   18               0.000         1648253.750
+ -1
+%filename: ne_8.fblvl
+%observed energy levels: Kelly, R.L., 1987, J.Phys.Chem.Ref.Data 16, Suppl. 1.
+%Theoretical energy levels (1-24): Zhang,H.L., Sampson,D.H., Fontes,C.J., 1990, ADNDT, 44, 31
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Ken Dere - Jul 17 2002
+ -1

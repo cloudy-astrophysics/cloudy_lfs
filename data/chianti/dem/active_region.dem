@@ -1,0 +1,38 @@
+     4.000    29.745
+     4.100    27.480
+     4.200    25.634
+     4.300    24.273
+     4.400    23.434
+     4.500    22.947
+     4.600    22.607
+     4.700    22.253
+     4.800    21.877
+     4.900    21.509
+     5.000    21.176
+     5.100    20.906
+     5.200    20.703
+     5.300    20.571
+     5.400    20.519
+     5.500    20.559
+     5.600    20.697
+     5.700    20.902
+     5.800    21.136
+     5.900    21.359
+     6.000    21.536
+     6.100    21.635
+     6.200    21.664
+     6.300    21.639
+     6.400    21.570
+     6.500    21.466
+     6.600    21.335
+     6.700    21.180
+     6.800    21.007
+ -1
+%filename: active_region.dem
+%dem: produced by chianti_dem.pro 
+% Comment: the DEM was derived using the Vernazza & Reeves 1978 ApJSS, 37, 485 average Active Region, 
+           the sun_coronal.abund file and a constant pressure of 3.00e+15 cm-3 K.
+% produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+%   K.P.Dere  - Aug 2002
+ -1

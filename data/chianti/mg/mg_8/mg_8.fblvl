@@ -1,0 +1,20 @@
+    1               2s22p    2    1  p    6            2201.333            2201.331
+    2               2s23s    3    0  s    2         1210690.000         1199033.750
+    3               2s23p    3    1  p    6               0.000         1264740.833
+    4               2s23d    3    2  d   10         1335962.000         1325626.750
+    5               2s24s    4    0  s    2         1647880.000               0.000
+    6               2s24p    4    1  p    6               0.000         1670000.000
+    7               2s24d    4    2  d   10         1693830.000               0.000
+    7               2s24f    4    3  f   14               0.000         1700000.000
+ -1
+%filename: mg_8.fblvl
+%observed energy levels (n=2): Edlen, B, 1983, Phys. Scripta, 28, 483
+%observed energy levels (n=3): Martin,W.C., Zalubas,R., 1980, J.Phys.Chem.Ref.Data, 9, 1
+%theoretical energy levels (n=2): Zhang,H.L., Graziani,M., Pradhan,A.K., 1994, A&A, 283, 319
+%theoretical energy levels (n=3): Sampson and Zhang, 1995, unpublished calculations
+%energy levels (n=4,5): NIST Atomic Spectra Database Version 2.0
+%comment: free-bound data file developed from .elvlc file
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data collaboration
+%
+% Ken Dere - Jul 18 2002
+ -1

@@ -1,0 +1,10 @@
+  1  2  2 0.000e+00 9.131e-02 2.650e+01-7.391e-13-1.738e-13 1.255e-13 3.031e-12 2.269e-11 8.680e-11 2.233e-10 4.242e-10 6.043e-10
+ -1
+%filename: s_8.psplups
+%rates: Foster V.J., Keenan F.P., Reid R.H.G., 1994, ADNDT 58, 227
+%energies: Cheng K.T., Kim Y.-K., Desclaux J.P., 1979, ADNDT 24, 111
+%comment: Fit valid for temperatures 1e5 to 6e6 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young   16-May-2001
+ -1

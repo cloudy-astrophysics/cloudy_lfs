@@ -1,0 +1,1 @@
+/Users/gary/cloudy/stars/kurucz79.mod

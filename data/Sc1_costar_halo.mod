@@ -1,0 +1,1 @@
+/Users/gary/cloudy/stars/Sc1_costar_halo.mod

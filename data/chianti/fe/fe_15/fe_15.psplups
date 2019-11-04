@@ -1,0 +1,11 @@
+  2  3  2 0.000e+00 5.240e-02 2.840e+02-2.240e-13-1.249e-11 1.163e-11 1.120e-10 3.378e-10 6.961e-10 1.147e-09 1.463e-09 1.600e-09
+  2  4  2 0.000e+00 1.814e-01 8.600e+01-7.960e-13-1.677e-11 1.151e-10 5.250e-10 1.154e-09 1.821e-09 2.521e-09 2.967e-09 3.409e-09
+  3  4  2 0.000e+00 1.290e-01 1.430e+02-6.790e-13 1.349e-11 2.056e-10 6.774e-10 1.285e-09 1.934e-09 2.460e-09 2.722e-09 3.013e-09
+ -1
+%filename: fe_15.psplups
+%rates: Landman, D.A., Brown, T., 1979, ApJ 232, 636
+%energies: Observed energies from CHIANTI .elvlc file.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young   18-May-2001
+ -1

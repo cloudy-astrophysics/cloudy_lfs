@@ -1,0 +1,20 @@
+Index: hazy1/ControllingModelAtoms.tex
+===================================================================
+--- hazy1/ControllingModelAtoms.tex	(revision 12299)
++++ hazy1/ControllingModelAtoms.tex	(working copy)
+@@ -501,11 +501,11 @@
+ to the model atom, as controlled with the
+ \cdCommand {database xx-like topoff} command.
+ 
+-By default only lines produced by resolved levels
+-are included in the printout.
++By default the lines produced by the highest levels are
++are not included in the printout since their intensities may be unreliable.
+ The \cdCommand{print line iso collapsed} command,
+-described on \pageref{sec:CommandPrintLineIsoCollapsed},
+-will cause lines produced by the collapsed
++described in \ref{sec:CommandPrintLineIsoCollapsed},
++will cause lines produced by the highest
+ levels to be included in the printout.
+ See the discussion of 
+ the \cdCommand{print line iso collapsed} command for more details.

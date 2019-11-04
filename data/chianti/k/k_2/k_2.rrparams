@@ -1,0 +1,11 @@
+    2
+   19    2    1  4.5280e-11   0.42340 5.9310e+00 2.8970e+09   0.30490  1.6450e+05
+-1
+%file:  k_2.rrparams
+ Radiative recombination coefficients
+Nikolic, D., Gorczyca, T.W., Korista, K.T., Badnell, N.R., 2010, A&A, 516, 97
+Dielectronic recombination of argon-like ions
+http://adsabs.harvard.edu/abs/2010A%26A...516A..97N
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:07:06 2012
+-1

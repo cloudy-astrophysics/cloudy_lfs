@@ -1,0 +1,13 @@
+    1
+   30   22  8.3770e+03  3.6150e+04  2.5660e+05  1.5660e+06  7.4240e+06  1.3830e+07  0.0000e+00  0.0000e+00  0.0000e+00
+   30   22  3.6400e-03  6.5010e-04  2.4720e-03  4.8480e-02  1.2140e+00  1.6470e+00  0.0000e+00  0.0000e+00  0.0000e+00
+-1
+%file:  zn_22.drparams
+%parameters for dielectronic recombination rate coefficients
+Zatsarinny, O., Gorczyca, T.W., Fu, J., Korista, K.T., Badnell, N.R., Savin, D.W.
+2006, A&A, 447, 379
+http://cdsads.u-strasbg.fr/cgi-bin/bib_query?2006A%26A...447..379Z
+Dielectronic recombination data for dynamic finite-density plasmas. IX. The fluorine isoelectronic sequence
+ produced for the CHIANTI atomic database for astrophysical spectroscopy
+ created by Ken Dere (GMU):  Wed Feb 15 11:12:54 2012
+-1

@@ -1,0 +1,12 @@
+  1  2  2 0.000e+00 3.579e-01 4.050e+01-9.990e-14 1.052e-13 9.676e-13 7.897e-12 2.674e-11 5.934e-11 1.009e-10 1.320e-10 1.268e-10
+  1  3  2 0.000e+00 3.855e-01 3.750e+01-4.010e-14-5.965e-14 3.063e-13 3.106e-12 1.149e-11 2.696e-11 4.779e-11 6.506e-11 6.631e-11
+  2  3  2 0.000e+00 2.763e-02 4.900e+02-8.440e-16-2.008e-14 4.234e-16 5.482e-14 4.094e-13 1.633e-12 4.255e-12 6.815e-12 5.699e-12
+ -1
+%filename: ti_15.psplups
+%rates: Ryans R.S.I., Keenan F.P., Reid R.H.G., unpublished.
+%energies: Observed values, from .elvlc file
+%comment: Fits valid for temperatures 9e5 to 1.5e7 K.
+%produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+%
+% Peter Young   15-May-2001
+ -1
